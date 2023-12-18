@@ -18,8 +18,8 @@ logo:
 @style
 
 .lia-slide__container {
-    background-image: url("https://raw.githubusercontent.com/RDM4CAU/LZ4FDM/main/images/logos_dalia_dini-nestor2.png");
-    background-size: 100%;
+    background-image: url("https://raw.githubusercontent.com/RDM4CAU/LZ4FDM/main/images/fdm-lehre.png");
+    background-size: 15%;
     background-repeat: no-repeat;
     background-position: right top;
     opacity: 1;
@@ -36,22 +36,40 @@ logo:
 > *Community Event zur Lernzielmatrix*
 > 
 > Darmstadt, 2024-01-31 - 2024-02-30
+>
+> ![](images/logos_dalia_dini-nestor.png)<!-- width="150px" -->
 
+# Was sind Lernziele?
 
-# Warum und wofür Lernziele?
+# Wofür Lernziele?
 
 Welchen Nutzen hat die Formulierung von Lernzielen?
 
-Lernziele... 
+{{1-2}}
+********************************************************************************
+
+**~~Lehrende~~**
+
+Lernziele...
+
+* helfen bei der Planung der Lernaktivitäten und steigern die Lerneffizienz
+* erleichtern die Lernerfolgskontrolle
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+**~~Lernende~~**
+
+Lernziele...
 
 * helfen Lernenden die in einer Lerneinheit zu behandelnden Inhalte einzuschätzen
 * informieren den Lernenden über den Nutzen, den er aus der Lerneinheit ziehen kann
 * geben dem Lernenden Kriterien, um den eigenen Lernfortschritt evaluieren zu können
 * sollen das selbstgesteuerte Lernen unterstützen
 
-* helfen bei der Planung der Lernaktivitäten und steigern die Lerneffizienz
-* erleichtern die Lernerfolgskontrolle
-
+********************************************************************************
 
 # Allgemeine Hinweise zur Formulierung
 
