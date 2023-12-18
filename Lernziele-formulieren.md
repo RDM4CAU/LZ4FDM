@@ -18,8 +18,8 @@ logo:
 @style
 
 .lia-slide__container {
-    background-image: url("https://raw.githubusercontent.com/RDM4CAU/LZ4FDM/main/images/logos_dalia_dini-nestor.png");
-    background-size: 20%;
+    background-image: url("https://raw.githubusercontent.com/RDM4CAU/LZ4FDM/main/images/logos_dalia_dini-nestor2.png");
+    background-size: 100%;
     background-repeat: no-repeat;
     background-position: right top;
     opacity: 1;
