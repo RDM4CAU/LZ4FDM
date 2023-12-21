@@ -12,7 +12,7 @@ comment: Präsentation und Handout Community Event zur Lernzielmatrix FDM, Darms
 licence: 
 
 
-logo: 
+logo: images/logos_dalia_dini-nestor.png
 
 
 @style
