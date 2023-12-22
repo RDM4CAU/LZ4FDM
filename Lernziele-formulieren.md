@@ -5,9 +5,9 @@ email:    b.petersen@rz.uni-kiel.de
 version:  0.0.1
 language: de
 narrator: Deutsch Female
-title: Lernziele formulieren
+title: Lernziele 
 
-comment: Präsentation und Handout Community Event zur Lernzielmatrix FDM, Darmstadt 2024-01-31 - 2024-02-01
+comment: Präsentation und Handout zum Community Event zur Lernzielmatrix FDM, Darmstadt 2024-01-31 - 2024-02-01
 
 licence: 
 
@@ -41,54 +41,64 @@ logo: images/logos_dalia_dini-nestor.png
 
 <div style="page-break-after: always;"></div>
 
-# Was sind Lernziele?
+# Begriffsklärung
 
 <div style="float:left; width:95%;">
-Die Begriffe **Lehrziele**, **Lernziele** und **Lernergebnisse** werden häufig synonym verwendet.
+Die Begriffe <span style="border: 1px solid #399193;">**Lernziele**</span> und <span style="border: 1px solid #399193;">**Lernergebnisse**</span> werden häufig synonym verwendet.
 <p></p>
-Allen Begriffen gemein ist, dass sie <span style="border: 1px solid #399193;">**Ziele eines Lernprozesses**</span> beschreiben. 
+Den Begriffen gemein ist, dass sie <span style="border: 1px solid #399193;">**Ziele eines Lernprozesses**</span> beschreiben, also definieren, was Lernende nach Durchlauf einer Lerneinheit erreicht haben sollen. 
 <p></p>
-Der Begriff **Lernergebnis** wird von der Europäischen Gemeinschaft folgendermaßen definiert: 
 </div>
 
+{{1}}
+********************************************************************************
+Der Begriff **Lernziel** kann folgendermaßen definiert werden: 
+
+
 <div style="float:left; width:95%;">
+> Ein Lernziel ist „eine zweckmäßige Zielbeschreibung (…), mit der es gelingt, die Unterrichtsabsichten dem Leser mitzuteilen. Eine gute Zielbeschreibung schließt (...) eine möglichst große Anzahl möglicher Mißdeutungen aus.“
+>
+> -- [Robert F. Mager (1972) zitiert in Gundermann, A. (2016)](https://www.die-bonn.de/wb/2016-lernziel-01.pdf)
+
+</div>
+
+********************************************************************************
+
+{{2}}
+********************************************************************************
+<p></p>
+Die Europäische Gemeinschaft definiert den Begriff **Lernergebnis** folgendermaßen: 
+
+<div style="float:left; width:95%;">
+
 > “Lernergebnisse treffen „Aussagen darüber, was ein Lernender weiß, versteht und in der Lage ist zu tun, nachdem er einen Lernprozess abgeschlossen hat. Sie werden als Kenntnisse, Fertigkeiten sowie Verantwortung und Selbstständigkeit definiert”
 >
 > -- [Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017H0615(01)
 
 </div>
+********************************************************************************
 
+## Kenntnisse, Fähigkeiten & Kompetenz
 <div style="float:left; width:95%;">
+
+Die Begriffe "Kenntnisse", "Fähigkeiten" und "Kompetenz" können wie folgt definiert werden: 
 
 {{1}}
 ********************************************************************************
 
-Dabei sind... 
-
+⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im EQR werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
 ********************************************************************************
 
-{{2-3}}
+{{2}}
 ********************************************************************************
 
-⇨ **„Kenntnisse"** das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im EQR werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben;[^1](Amtsblatt der Europäischen Union, 2017)
+⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
 ********************************************************************************
 
-{{3-4}}
+{{3}}
 ********************************************************************************
 
-⇨ **„Fertigkeiten“** die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben;[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{4-5}}
-********************************************************************************
-
-⇨ **„Verantwortung und Selbstständigkeit“** die Fähigkeit einer/eines Lernenden, Kenntnisse und Fertigkeiten selbstständig und verantwortungsbewusst anzuwenden;[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{5-6}}
-********************************************************************************
-
-⇨ **„Kompetenz“** die nachgewiesene Fähigkeit, Kenntnisse, Fertigkeiten sowie persönliche, soziale und/oder methodische Fähigkeiten in Arbeits- oder Lernsituationen und für die berufliche und persönliche Entwicklung zu nutzen[^1](Amtsblatt der Europäischen Union, 2017)
+⇨ **„Kompetenz“** [ist] die nachgewiesene Fähigkeit, Kenntnisse, Fertigkeiten sowie persönliche, soziale und/oder methodische Fähigkeiten in Arbeits- oder Lernsituationen und für die berufliche und persönliche Entwicklung zu nutzen.[^1](Amtsblatt der Europäischen Union, 2017)
 
 ********************************************************************************
 
@@ -98,7 +108,7 @@ Dabei sind...
 
 # Warum Lernziele?
 
-Lernziele beschreiben Ziele von Lernprozessen und definieren, welche Kenntnisse, Fähigkeiten und Verhaltensveränderungen nach Abschluss eines Lernprozesses erworben worden sein sollen.
+Ausformulierte Lernergebnisse stellen ein nützliches Werkzeug bei der Gestaltung von Lehr-/Lernszenarien dar. 
 
 {{0-4}}
 ********************************************************************************
@@ -112,7 +122,10 @@ Für die Gestaltung von Lehre bieten sie folgende **Vorteile**<!-- style="color:
 
 Lernziele...
 
-* definieren welche Kenntnisse und Fähigkeiten und welches Fachverständnis in einem Studiengang oder einem Modul erreicht werden sollen. 
+* definieren welche Kenntnisse und Fähigkeiten und welches Fachverständnis in einem Studiengang oder einem Modul erreicht werden sollen und bilden so einen **Qualifikationsrahmen**.
+* ermöglichen eine **Einordnung in Strukturvorgaben**, z. B. der Kultusministerkonferenz (KMK), des Akkreditierungsrates, der Anforderungen des nationalen und europäischen Qualifikationsrahmens sowie ggf. weiterer fachwissenschaftlicher Vorgaben
+* Ermöglichen den **Vergleich von Bildungsaktivitäten**.
+* sind Voraussetzung für eine **zielgerichtete Lernprogrammaufbereitung**.
 
 ********************************************************************************
 
@@ -143,7 +156,7 @@ Lernziele...
 
 ********************************************************************************
 
-{{4-5}}
+{{4-6}}
 ********************************************************************************
 
 Es können aber auch **Nachteile**<!-- style="color: red" --> benannt werden:
@@ -155,8 +168,8 @@ Es können aber auch **Nachteile**<!-- style="color: red" --> benannt werden:
 
 Lernziele...
 
-* können den Entscheidungsspielraum von Lehrenden verengen 
 * zwingen dazu Zielvorstellungen zu präzisieren
+* können den Entscheidungsspielraum von Lehrenden verengen 
 
 ********************************************************************************
 
@@ -207,25 +220,27 @@ Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stuf
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
 | <!-- style="background: white"--> Grad | <!-- style="background: white"--> Stufe        |<!-- style="background: white"--> Beschreibung        |
 |:------------------------------------------ |:------------------------------------------------- |:------------------------------------------------- |
-| <!-- style="background: lightcyan"--> 1   | <!-- style="background: lightcyan"--> Wissen |<!-- style="background: lightcyan"--> *Lernende können Informationen abrufen und widergeben.* |
-| <!-- style="background: cyan" --> 2   | <!-- style="background: cyan"--> Verständnis        |<!-- style="background: cyan"--> *Lernende können neue Informationen in einen größeren Kontext einordnen.*        |
-| <!-- style="background: DarkTurquoise" --> 3   | <!-- style="background: DarkTurquoise"--> Anwendung        |<!-- style="background: DarkTurquoise"--> *Lernende können das erworbene Wissen in einer gegenüber der Lernsituation neuen Situation anwenden.*        |
-| <!-- style="background: MediumAquamarine" --> 4   | <!-- style="background: MediumAquamarine"--> Analyse        |<!-- style="background: MediumAquamarine"--> *Lernende können Sachverhalte in Elemente und Beziehungen zerlegen und sinnvoll strukturieren.*        |
-| <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Synthese        |<!-- style="background: DarkKhaki" --> *Lernende können Wissenselemente in neuen Zusammenhänge Beziehung bringen.*        |
-| <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Evaluation        |<!-- style="background: Khaki"--> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
+| <!-- style="background: lightcyan"--> 1   | <!-- style="background: lightcyan"--> Erinnern/Wissen |<!-- style="background: lightcyan"--> *Lernende können Informationen abrufen und widergeben.* |
+| <!-- style="background: cyan" --> 2   | <!-- style="background: cyan"--> Verstehen        |<!-- style="background: cyan"--> *Lernende können neue Informationen in einen größeren Kontext einordnen.*        |
+| <!-- style="background: DarkTurquoise" --> 3   | <!-- style="background: DarkTurquoise"--> Anwenden        |<!-- style="background: DarkTurquoise"--> *Lernende können das erworbene Wissen in einer gegenüber der Lernsituation neuen Situation anwenden.*        |
+| <!-- style="background: MediumAquamarine" --> 4   | <!-- style="background: MediumAquamarine"--> Analysieren        |<!-- style="background: MediumAquamarine"--> *Lernende können Sachverhalte in Elemente und Beziehungen zerlegen und sinnvoll strukturieren.*        |
+| <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Beurteilen        |<!-- style="background: DarkKhaki" --> *Lernende können Wissenselemente in neuen Zusammenhänge Beziehung bringen.*        |
+| <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
 
 <div style="page-break-after: always;"></div>
 
-# Hinweise zur Formulierung
+# Zusammenfassende Hinweise zur Formulierung
 
-* Lernziele haben eine Inhalts- und eine Verhaltenskomponente. 
-* Lernziele beschreiben möglichst ein beobachtbares Verhalten (***Operationalisierbarkeit***)
-* Schlüsselwort ist immer ein möglichst eindeutiges Verb, welches beschreibt, was erreicht werden soll (siehe [Formulierungshilfen](#Formulierungshilfen))
+Bitte beachtet bei der gemeinsamen Arbeit folgende Punkte: 
+
+* Lernziele haben immer eine **Inhalts**- und eine **Verhaltenskomponente**. 
+* Lernziele beschreiben möglichst ein beobachtbares Verhalten (**Operationalisierbarkeit**)
+* Schlüsselwort ist immer ein möglichst **eindeutiges Verb**, welches beschreibt, was erreicht werden soll (siehe [Formulierungshilfen](#Formulierungshilfen))
 * Lernziele beginnen immer mit dem Subjekt, das die Lernenden bezeichnet (Hier: "Lernende")
 * Lernzielsätze sind handlungsorientiert und möglichst eindeutig, Adjektive und Ausschmückungen entfallen wo möglich -> Es geht nicht um sprachliche Schönheit.
 * Damit wir einheitlich bleiben: Wir haben uns auf die Nutzung von "können" geeinigt -> *Lernende können... benennen/anwenden/diskutieren/...*
 
-# Formulierungsbeispiele
+## Formulierungsbeispiele
 
 <div style="float:left; width:65%;">
 Lernende können...
@@ -250,19 +265,26 @@ Lernende können...
 
 <div style="page-break-after: always;"></div>
 
-# Formulierungshilfen
+## Formulierungshilfen
 
 <div style="page-break-after: always;"></div>
 
+Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, die eine Verhaltensbeobachtung (und damit eine Messbarkeit) möglich machen. 
+
 | Eindeutige Formulierung |  Nicht eindeutige Formulierung |
 | -------- | :------ |
-| nennen, erklären, beschreiben, anwenden, ausführen,zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
+| nennen, erklären, erläutern, beschreiben, anwenden, ausführen,zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
+| **Beispiel**: Lernende können die FAIR-Prinzipien beschreiben. ✔  |   **Beispiel**: ~Lernende sind mit den FAIR-Prinzipien vertraut.~ ✖ |
+
+Bezüglich der Zuordnung zu den Bloomschen Taxonomiestufen kann diese Verbliste als Orientierung dienen. 
+
+Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch die doppelte Zuordnung eines Verbs in verschiedene Stufen sind möglich. 
 
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
 | <!-- style="background: lightcyan"--> **Stufe 1: Wissen** | <!-- style="background: cyan"--> **Stufe 2: Verständnis** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwendung** |
-| <!-- style="background: lightcyan" --> andeuten anführen angeben aufführen aufsagen aufschreiben aufzählen ausdrücken ausführen aussagen benennen berichten beschreiben bezeichnen darstellen erzählen nennen schildern schreiben skizzieren zeichnen2   | <!-- style="background: cyan"--> ableiten bestimmen darlegen darstellen definieren demonstrieren deuten erklären erläutern formulieren herausstellen identifizieren interpretieren präsentieren Schlüsse ziehen übersetzen übertragen zusammenfassen        |<!-- style="background: DarkTurquoise"--> anwenden aufsuchen ausfüllen bearbeiten berechnen drucken durchführen einrichten eintragen erarbeiten ermitteln errechnen erstellen formatieren gestalten herausfinden herstellen konfigurieren löschen lösen nutzen planen sichern speichern verwenden      |
+| <!-- style="background: lightcyan" --> angeben, anführen, auflisten, aufsagen, aufzählen, ausführen, benennen, berichten, beschreiben, bezeichnen, darstellen, definieren, feststellen, finden, gliedern,identifizieren, kennzeichnen, nennen, präsentieren, reproduzieren, schildern, schreiben, skizzieren,wiedergeben, wiederholen, zeichnen, zitieren, zuordnen, zusammenstellen   | <!-- style="background: cyan"--> abgrenzen, ableiten, anordnen, ausdrücken, auswählen, berichten, beschreiben, bestimmen, charakterisieren, darstellen, demonstrieren, deuten, diskutieren, durch ein Beispiel erläutern, einordnen, erkennen, erklären, erläutern, finden, folgern, formulieren, gegenüberstellen, identifizieren, illustrieren, klassifizieren, lokalisieren, neu schreiben, präsentieren, schätzen, skizzieren, subsumieren, Schlüsse ziehen, übersetzen, übertragen, zusammenfassen        |<!-- style="background: DarkTurquoise"--> ändern, anfertigen, anpassen, anwenden, aufzeigen, ausfüllen, auswählen, bearbeiten, bedienen, beeinflussen, benutzen, berechnen, bestimmen, sich beziehen auf, darstellen, definieren, demonstrieren, durchführen, einsetzen, eintragen, entdecken, entwickeln, erklären, erproben, errechnen, erstellen, fertigen, finden, formatieren, herausfinden, illustrieren, implementieren, klassifizieren, löschen, lösen, machen, modifizieren, nutzen, organisieren, planen, praktizieren, realisieren, rechnen, transferieren, übersetzen, umsetzen, untersuchen, veranschaulichen, verifizieren, verwenden, vervollständigen, voraussagen, vorbereiten, wählen, zeichnen, zeigen, zergliedern      |
 | <!-- style="background: MediumAquamarine"--> **Stufe 4: Analyse**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Sythese**        |<!-- style="background: Khaki"--> **Stufe 6: Evaluation**        |
-| <!-- style="background: MediumAquamarine" --> analysieren bestimmen einordnen einteilen entnehmen gegenüberstellen herausstellen isolieren sortieren testen unterscheiden untersuchen vergleichen   | <!-- style="background: Darkkhaki"--> ableiten beziehen auf entwerfen entwickeln in Beziehung setzen konzipieren koordinieren ordnen tabellieren verbinden zuordnen zusammenstellen          |<!-- style="background: khaki"--> auswählen auswerten begründen beurteilen bewerten entscheiden evaluieren klassifizieren kritisch vergleichen prüfen Stellung nehmen urteilen       |
+| <!-- style="background: MediumAquamarine" --> ableiten, analysieren, aufdecken, aufgliedern, aufschlüsseln, aufteilen, aufzeigen, auswählen, auswerten, bestimmen, sich beziehen auf, darstellen, debattieren, diagnostizieren, differenzieren, einteilen, erhellen, erkennen, ermitteln, experimentieren, fokussieren, folgern, gegenüberstellen, gliedern, hinterfragen, identifizieren, isolieren, kategorisieren, klassifizieren, kontrastieren, kritisieren, lösen, organisieren, prüfen, rechtfertigen, schlussfolgern, sortieren, testen, trennen, umreißen, umwandeln, unterscheiden, untersuchen, unterteilen, urteilen, vergleichen, verwenden, zuordnen   | <!-- style="background: Darkkhaki"--> ableiten beziehen auf entwerfen entwickeln in Beziehung setzen konzipieren koordinieren ordnen tabellieren verbinden zuordnen zusammenstellen          |<!-- style="background: khaki"--> auswählen auswerten begründen beurteilen bewerten entscheiden evaluieren klassifizieren kritisch vergleichen prüfen Stellung nehmen urteilen       |
 
 <div style="page-break-after: always;"></div>
 
@@ -273,9 +295,21 @@ Stangl, W. (2023, 21. Dezember). Lernzieloperationalisierung. online [werner sta
 
 https://leko.th-nuernberg.de/portal_digitale_lehre/anleitungen/artikel-4-lernziele-definieren/
 
+https://lehreladen.rub.de/planung-durchfuehrung-kompetenzorientierter-lehre/kompetenz-pruefen/lernzieltaxonomien/
+
 https://lehreladen.rub.de/planung-durchfuehrung-kompetenzorientierter-lehre/lehr-und-lernziele/formulierung-und-operationalisierung/
 
 https://tu-dresden.de/codip/ressourcen/dateien/services/e_learning/didaktische-handreichung-formulierung-von-lernzielen-aus-dem-projekt-seco?lang=de
+
+Gundermann, A. (2016). Lernziele und Lernergebnisse. online https://www.die-bonn.de/wb/2016-lernziel-01.pdf 
+
+Döring, S. (2010). Formulierung von Lernzielen. Didaktische Handreichung. Abgerufen von www.fdbiotukl.de/assets/files/fd_documents/planungshilfen/Handreichung_Formulierung%20von%20Lernzielen_
+secolayout_100302.pdf (22.12.2023)
+
+https://www.nat.fau.de/files/2015/12/03-Leitfaden-Leitfaden-zur-Formulierung-kompetenzorientierter-Lernziele-auf-Modulebene-NatFak-und-FBZHL.pdf
+
+
+
 
 # Informationen zu diesem Dokument
 
