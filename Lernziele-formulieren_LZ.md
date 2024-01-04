@@ -108,7 +108,7 @@ Für die Gestaltung von Lehre bieten sie folgende **Vorteile**<!-- style="color:
 
 Lernziele...
 
-* definieren welche Kenntnisse und Fähigkeiten und welches Fachverständnis in einem Studiengang oder einem Modul erreicht werden sollen und bilden so einen **Qualifikationsrahmen**.
+* definieren welche Kenntnisse und Fertigkeiten und welches Fachverständnis in einem Studiengang oder einem Modul erreicht werden sollen und bilden so einen **Qualifikationsrahmen**.
 * ermöglichen eine **Einordnung in Strukturvorgaben**, z. B. der Kultusministerkonferenz (KMK), des Akkreditierungsrates, der Anforderungen des nationalen und europäischen Qualifikationsrahmens sowie ggf. weiterer fachwissenschaftlicher Vorgaben
 * Ermöglichen den **Vergleich von Bildungsaktivitäten**.
 * sind Voraussetzung für eine **zielgerichtete Lernprogrammaufbereitung**.
@@ -172,7 +172,7 @@ David R. Krathwohl (2002) A Revision of Bloom's Taxonomy: An Overview,Theory Int
 |:------------------------------------------ |:------------------------------------------------- |:------------------------------------------------- |
 | <!-- style="background: lightcyan"--> 1   | <!-- style="background: lightcyan"--> Erinnern |<!-- style="background: lightcyan"--> *Lernende können Informationen abrufen und widergeben.* |
 | <!-- style="background: cyan" --> 2   | <!-- style="background: cyan"--> Verstehen        |<!-- style="background: cyan"--> *Lernende können Informationen zusammenfassen und erklären.*        |
-| <!-- style="background: DarkTurquoise" --> 3   | <!-- style="background: DarkTurquoise"--> Anwenden        |<!-- style="background: DarkTurquoise"--> *Lernende können das erworbene Wissen in einer neuen Situation anwenden.*        |
+| <!-- style="background: DarkTurquoise" --> 3   | <!-- style="background: DarkTurquoise"--> Anwenden        |<!-- style="background: DarkTurquoise"--> *Lernende können Sachverhalte in einer neuen Situation anwenden.*        |
 | <!-- style="background: MediumAquamarine" --> 4   | <!-- style="background: MediumAquamarine"--> Analysieren        |<!-- style="background: MediumAquamarine"--> *Lernende können Sachverhalte in Elemente und Beziehungen zerlegen und sinnvoll strukturieren.*        |
 | <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Beurteilen        |<!-- style="background: DarkKhaki" --> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
 | <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues schaffen.*        |
@@ -204,37 +204,6 @@ Ein Lernziel gilt als operationalisiert, wenn...
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
-
-
-## Worauf zielen Lernziele ab?
-
-<div style="float:left; width:95%;">
-
-Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenz" können wie folgt definiert werden: 
-
-{{1}}
-********************************************************************************
-
-⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im EQR werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{2}}
-********************************************************************************
-
-⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
-⇨ **„Kompetenz“** [ist] die nachgewiesene Fähigkeit, Kenntnisse, Fertigkeiten sowie persönliche, soziale und/oder methodische Fähigkeiten in Arbeits- oder Lernsituationen und für die berufliche und persönliche Entwicklung zu nutzen.[^1](Amtsblatt der Europäischen Union, 2017)
-
-********************************************************************************
-
-</div>
-
-<div style="page-break-after: always;"></div>
-
 
 
 ## Kompetenzbereiche
@@ -306,9 +275,9 @@ Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch 
 
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
 | <!-- style="background: lightcyan"--> **Stufe 1: Erinnern** | <!-- style="background: cyan"--> **Stufe 2: Verstehen** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwenden** |
-| <!-- style="background: lightcyan" --> angeben, anführen, auflisten, aufsagen, aufzählen, ausführen, benennen, berichten, beschreiben, bezeichnen, darstellen, definieren, feststellen, finden, gliedern,identifizieren, kennzeichnen, nennen, präsentieren, reproduzieren, schildern, schreiben, skizzieren,wiedergeben, wiederholen, zeichnen, zitieren, zuordnen, zusammenstellen   | <!-- style="background: cyan"--> abgrenzen, ableiten, anordnen, ausdrücken, auswählen, berichten, beschreiben, bestimmen, charakterisieren, darstellen, demonstrieren, deuten, diskutieren, durch ein Beispiel erläutern, einordnen, erkennen, erklären, erläutern, finden, folgern, formulieren, gegenüberstellen, identifizieren, illustrieren, klassifizieren, lokalisieren, neu schreiben, präsentieren, schätzen, skizzieren, subsumieren, Schlüsse ziehen, übersetzen, übertragen, zusammenfassen        |<!-- style="background: DarkTurquoise"--> ändern, anfertigen, anpassen, anwenden, aufzeigen, ausfüllen, auswählen, bearbeiten, bedienen, beeinflussen, benutzen, berechnen, bestimmen, sich beziehen auf, darstellen, definieren, demonstrieren, durchführen, einsetzen, eintragen, entdecken, entwickeln, erklären, erproben, errechnen, erstellen, fertigen, finden, formatieren, herausfinden, illustrieren, implementieren, klassifizieren, löschen, lösen, machen, modifizieren, nutzen, organisieren, planen, praktizieren, realisieren, rechnen, transferieren, übersetzen, umsetzen, untersuchen, veranschaulichen, verifizieren, verwenden, vervollständigen, voraussagen, vorbereiten, wählen, zeichnen, zeigen, zergliedern      |
+| <!-- style="background: lightcyan" --> angeben, anführen, auflisten, aufsagen, aufzählen, ausführen, benennen, berichten, beschreiben, bezeichnen, darstellen, definieren, feststellen, finden, gliedern, identifizieren, kennzeichnen, nennen, präsentieren, reproduzieren, schildern, schreiben, skizzieren, wiedergeben, wiederholen, zeichnen, zitieren, zuordnen, zusammenstellen   | <!-- style="background: cyan"--> abgrenzen, ableiten, anordnen, ausdrücken, auswählen, berichten, beschreiben, bestimmen, charakterisieren, darstellen, demonstrieren, deuten, diskutieren, durch ein Beispiel erläutern, einordnen, erkennen, erklären, erläutern, finden, folgern, formulieren, gegenüberstellen, identifizieren, illustrieren, klassifizieren, lokalisieren, neu schreiben, präsentieren, schätzen, skizzieren, subsumieren, Schlüsse ziehen, übersetzen, übertragen, zusammenfassen        |<!-- style="background: DarkTurquoise"--> ändern, anfertigen, anpassen, anwenden, aufzeigen, ausfüllen, auswählen, bearbeiten, bedienen, beeinflussen, benutzen, berechnen, bestimmen, sich beziehen auf, darstellen, definieren, demonstrieren, durchführen, einsetzen, eintragen, entdecken, entwickeln, erklären, erproben, errechnen, erstellen, fertigen, finden, formatieren, herausfinden, illustrieren, implementieren, klassifizieren, löschen, lösen, machen, modifizieren, nutzen, organisieren, planen, praktizieren, realisieren, rechnen, transferieren, übersetzen, umsetzen, untersuchen, veranschaulichen, verifizieren, verwenden, vervollständigen, voraussagen, vorbereiten, wählen, zeichnen, zeigen, zergliedern      |
 | <!-- style="background: MediumAquamarine"--> **Stufe 4: Analysieren**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Beurteilen**        |<!-- style="background: Khaki"--> **Stufe 6: Erschaffen**        |
-| <!-- style="background: MediumAquamarine" --> ableiten, analysieren, aufdecken, aufgliedern, aufschlüsseln, aufteilen, aufzeigen, auswählen, auswerten, bestimmen, sich beziehen auf, darstellen, debattieren, diagnostizieren, differenzieren, einteilen, erhellen, erkennen, ermitteln, experimentieren, fokussieren, folgern, gegenüberstellen, gliedern, hinterfragen, identifizieren, isolieren, kategorisieren, klassifizieren, kontrastieren, kritisieren, lösen, organisieren, prüfen, rechtfertigen, schlussfolgern, sortieren, testen, trennen, umreißen, umwandeln, unterscheiden, untersuchen, unterteilen, urteilen, vergleichen, verwenden, zuordnen   | <!-- style="background: Darkkhaki"--> ableiten beziehen auf entwerfen entwickeln in Beziehung setzen konzipieren koordinieren ordnen tabellieren verbinden zuordnen zusammenstellen          |<!-- style="background: khaki"--> auswählen auswerten begründen beurteilen bewerten entscheiden evaluieren klassifizieren kritisch vergleichen prüfen Stellung nehmen urteilen       |
+| <!-- style="background: MediumAquamarine" --> ableiten, analysieren, aufdecken, aufgliedern, aufschlüsseln, aufteilen, aufzeigen, auswählen, auswerten, bestimmen, sich beziehen auf, darstellen, debattieren, diagnostizieren, differenzieren, einteilen, erhellen, erkennen, ermitteln, experimentieren, fokussieren, folgern, gegenüberstellen, gliedern, hinterfragen, identifizieren, isolieren, kategorisieren, klassifizieren, kontrastieren, kritisieren, lösen, organisieren, prüfen, rechtfertigen, schlussfolgern, sortieren, testen, trennen, umreißen, umwandeln, unterscheiden, untersuchen, unterteilen, urteilen, vergleichen, verwenden, zuordnen   | <!-- style="background: Darkkhaki"--> auswählen, auswerten, begründen, beurteilen, bewerten, entscheiden, evaluieren, klassifizieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen          |<!-- style="background: khaki"-->  ableiten, beziehen auf, entwerfen, entwickeln, in Beziehung setzen, konzipieren, koordinieren, ordnen, tabellieren, verbinden, zuordnen, zusammenstellen      |
 
 <div style="page-break-after: always;"></div>
 
