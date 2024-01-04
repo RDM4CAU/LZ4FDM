@@ -171,6 +171,7 @@ Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stuf
 
 <div style="page-break-after: always;"></div>
 
+![Bloom](/images/abb_taxonomie_bloom.pdf)
 
 # Operationalisierung von Lernzielen
 
