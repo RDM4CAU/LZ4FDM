@@ -99,21 +99,21 @@ Wir möchten in einer Art World-Café mit Euch arbeiten.
 
 **Unsere Gastgeber:innen und Diskussionsthemen**:
 
-**Tisch 1**: 
+**Tisch 1**: Grundlagen	-> Jorge
 
-**Tisch 2**: 
+**Tisch 2**: Arbeiten mit Daten	-> Britta
 
-**Tisch 3**: 
+**Tisch 3**: Dokumentation und Metadaten -> Andreas & Cord
 
-**Tisch 4**: 
+**Tisch 4**: Langzeitarchivierung, Publikation, Nachnutzung	-> Ute
 
-**Tisch 5**: 
+**Tisch 5**: Recht und Ethik -> Linda
 
-**Tisch 6**: 
+**Tisch 6**: Unterstützungsstrukturen -> Benjamin
 
-**Tisch 7**: 
+**Tisch 7**: Struktur & technische Aspekte / Formalisierung der Matrix -> Canan
 
-**Tisch 8**: 
+**Tisch 8**: offen für weitere Themen
 
 ********************************************************************************
 
