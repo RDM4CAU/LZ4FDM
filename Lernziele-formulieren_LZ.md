@@ -175,7 +175,7 @@ David R. Krathwohl (2002) A Revision of Bloom's Taxonomy: An Overview,Theory Int
 | <!-- style="background: DarkTurquoise" --> 3   | <!-- style="background: DarkTurquoise"--> Anwenden        |<!-- style="background: DarkTurquoise"--> *Lernende können Sachverhalte in einer neuen Situation anwenden.*        |
 | <!-- style="background: MediumAquamarine" --> 4   | <!-- style="background: MediumAquamarine"--> Analysieren        |<!-- style="background: MediumAquamarine"--> *Lernende können Sachverhalte in Elemente und Beziehungen zerlegen und sinnvoll strukturieren.*        |
 | <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Beurteilen        |<!-- style="background: DarkKhaki" --> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
-| <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues schaffen.*        |
+| <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues erschaffen.*        |
 
 <div style="page-break-after: always;"></div>
 
