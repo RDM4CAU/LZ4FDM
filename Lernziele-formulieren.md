@@ -172,7 +172,7 @@ Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stuf
 <div style="page-break-after: always;"></div>
 
 
-## Operationalisierung von Lernzielen
+# Operationalisierung von Lernzielen
 
 > Lernziele haben immer eine **_Inhalts_**– und eine **_Verhaltenskomponente_**.
 >
@@ -246,9 +246,7 @@ Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt de
 
 
 
-
-
-## Formulierung von Lernzielen
+# Formulierung von Lernzielen
 
 Bitte beachtet bei der gemeinsamen Arbeit folgende Punkte: 
 
