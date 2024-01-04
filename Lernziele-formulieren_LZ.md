@@ -175,7 +175,7 @@ David R. Krathwohl (2002) A Revision of Bloom's Taxonomy: An Overview,Theory Int
 | <!-- style="background: DarkTurquoise" --> 3   | <!-- style="background: DarkTurquoise"--> Anwenden        |<!-- style="background: DarkTurquoise"--> *Lernende können das erworbene Wissen in einer neuen Situation anwenden.*        |
 | <!-- style="background: MediumAquamarine" --> 4   | <!-- style="background: MediumAquamarine"--> Analysieren        |<!-- style="background: MediumAquamarine"--> *Lernende können Sachverhalte in Elemente und Beziehungen zerlegen und sinnvoll strukturieren.*        |
 | <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Beurteilen        |<!-- style="background: DarkKhaki" --> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
-| <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues schaffen*        |
+| <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues schaffen.*        |
 
 <div style="page-break-after: always;"></div>
 
@@ -245,10 +245,10 @@ Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereic
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
 | <!-- style="background: white"--> Kompetenz | <!-- style="background: white"--> Beschreibung        |<!-- style="background: white"--> Beispiel        |
 |:------------------------------------------ |:------------------------------------------------- |:------------------------------------------------- |
-| <!-- style="background: lightcyan"--> Sachkompetenz [SK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, Aufgaben und Problemstellungen fachlich angemessen zu bearbeiten und das Ergebnis zu beurteilen. |<!-- style="background: lightcyan"--> *dies das* |
-| <!-- style="background: white" --> Methodenkompetenz [MK]  | <!-- style="background: white"--> Fähigkeit und Bereitschaft zur Anwendung fachlich angemessener Lern- und Arbeitsmethoden.   |<!-- style="background: white"--> *dies dAS*        |
-| <!-- style="background: lightcyan" --> Sozialkompetenz [SoK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, zielorientiert mit anderen zusammenzuarbeiten, Interessen und soziale Situationen zu erfassen, verantwortungsbewusste Auseinanderzusetzung und Mitgestaltung der Arbeits- und Lebenswelt.          |<!-- style="background: lightcyan"--> *dies das*        |
-| <!-- style="background: white" --> Selbstkompetenz [SeK]  | <!-- style="background: white"-->  Fähigkeit und Bereitschaft, sich weiterzuentwickeln und das eigene Leben eigenständig und verantwortlich im jeweiligen sozialen, kulturellen bzw. beruflichen Kontext zu gestalten.      |<!-- style="background: white"--> *dies das*        |
+| <!-- style="background: lightcyan"--> Sachkompetenz [SK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, Aufgaben und Problemstellungen fachlich angemessen zu bearbeiten und das Ergebnis zu beurteilen. |<!-- style="background: lightcyan"--> *Lernende können erklären, was eine Forschungsdatenpolicy ist.* |
+| <!-- style="background: white" --> Methodenkompetenz [MK]  | <!-- style="background: white"--> Fähigkeit und Bereitschaft zur Anwendung fachlich angemessener Lern- und Arbeitsmethoden.   |<!-- style="background: white"--> *Lernende können aus Forschungsdatenpolicies Handlungen ableiten.*        |
+| <!-- style="background: lightcyan" --> Sozialkompetenz [SoK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, zielorientiert mit anderen zusammenzuarbeiten, Interessen und soziale Situationen zu erfassen, verantwortungsbewusste Auseinanderzusetzung und Mitgestaltung der Arbeits- und Lebenswelt.          |<!-- style="background: lightcyan"--> *Lernende können die Inhalte der Forschungsdatenpolicies an andere vermitteln.*        |
+| <!-- style="background: white" --> Selbstkompetenz [SeK]  | <!-- style="background: white"-->  Fähigkeit und Bereitschaft, sich weiterzuentwickeln und das eigene Leben eigenständig und verantwortlich im jeweiligen sozialen, kulturellen bzw. beruflichen Kontext zu gestalten.      |<!-- style="background: white"--> *Lernende können Forschungsdatenpolicies kritisch diskutieren.*        |
 
 
 # Formulierung von Lernzielen
