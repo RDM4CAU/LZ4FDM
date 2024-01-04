@@ -284,8 +284,6 @@ Lernende können...
 
 ## Formulierungshilfen
 
-<div style="page-break-after: always;"></div>
-
 Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, die eine Verhaltensbeobachtung (und damit eine Messbarkeit) möglich machen. 
 
 | Eindeutige Formulierung |  Nicht eindeutige Formulierung |
@@ -299,9 +297,9 @@ Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch 
 
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
 | <!-- style="background: lightcyan"--> **Stufe 1: Wissen** | <!-- style="background: cyan"--> **Stufe 2: Verständnis** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwendung** |
-| <!-- style="background: lightcyan" --> angeben, anführen, auflisten, aufsagen, aufzählen, ausführen, benennen, berichten, beschreiben, bezeichnen, darstellen, definieren, feststellen, finden, gliedern,identifizieren, kennzeichnen, nennen, präsentieren, reproduzieren, schildern, schreiben, skizzieren,wiedergeben, wiederholen, zeichnen, zitieren, zuordnen, zusammenstellen   | <!-- style="background: cyan"--> abgrenzen, ableiten, anordnen, ausdrücken, auswählen, berichten, beschreiben, bestimmen, charakterisieren, darstellen, demonstrieren, deuten, diskutieren, durch ein Beispiel erläutern, einordnen, erkennen, erklären, erläutern, finden, folgern, formulieren, gegenüberstellen, identifizieren, illustrieren, klassifizieren, lokalisieren, neu schreiben, präsentieren, schätzen, skizzieren, subsumieren, Schlüsse ziehen, übersetzen, übertragen, zusammenfassen        |<!-- style="background: DarkTurquoise"--> ändern, anfertigen, anpassen, anwenden, aufzeigen, ausfüllen, auswählen, bearbeiten, bedienen, beeinflussen, benutzen, berechnen, bestimmen, sich beziehen auf, darstellen, definieren, demonstrieren, durchführen, einsetzen, eintragen, entdecken, entwickeln, erklären, erproben, errechnen, erstellen, fertigen, finden, formatieren, herausfinden, illustrieren, implementieren, klassifizieren, löschen, lösen, machen, modifizieren, nutzen, organisieren, planen, praktizieren, realisieren, rechnen, transferieren, übersetzen, umsetzen, untersuchen, veranschaulichen, verifizieren, verwenden, vervollständigen, voraussagen, vorbereiten, wählen, zeichnen, zeigen, zergliedern      |
+| <!-- style="background: lightcyan" --> auflisten, aufsagen, aufzählen, benennen, beschreiben, bezeichnen, darstellen, finden, gliedern, nennen, präsentieren, reproduzieren, schildern, schreiben, skizzieren, wiedergeben, wiederholen   | <!-- style="background: cyan"--> bestimmen, charakterisieren, durch ein Beispiel erläutern, erkennen, erklären, erläutern, identifizieren, illustrieren, klassifizieren, lokalisieren, skizzieren, zusammenfassen        |<!-- style="background: DarkTurquoise"--> ändern, anpassen, anwenden, bearbeiten, bedienen, beeinflussen, benutzen, berechnen, bestimmen, sich beziehen auf, durchführen, einsetzen, eintragen, entdecken, entwickeln, erklären, erproben, errechnen, erstellen, fertigen, finden, formatieren, herausfinden, illustrieren, implementieren, klassifizieren, löschen, lösen, machen, modifizieren, nutzen, organisieren, planen, praktizieren, realisieren, rechnen, transferieren, übersetzen, übertragen, umsetzen, untersuchen, veranschaulichen, verifizieren, verwenden, vervollständigen, voraussagen, wählen, zergliedern      |
 | <!-- style="background: MediumAquamarine"--> **Stufe 4: Analysieren**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Beurteilen**        |<!-- style="background: Khaki"--> **Stufe 6: Erschaffen**        |
-| <!-- style="background: MediumAquamarine" --> ableiten, analysieren, aufdecken, aufgliedern, aufschlüsseln, aufteilen, aufzeigen, auswählen, auswerten, bestimmen, sich beziehen auf, darstellen, debattieren, diagnostizieren, differenzieren, einteilen, erhellen, erkennen, ermitteln, experimentieren, fokussieren, folgern, gegenüberstellen, gliedern, hinterfragen, identifizieren, isolieren, kategorisieren, klassifizieren, kontrastieren, kritisieren, lösen, organisieren, prüfen, rechtfertigen, schlussfolgern, sortieren, testen, trennen, umreißen, umwandeln, unterscheiden, untersuchen, unterteilen, urteilen, vergleichen, verwenden, zuordnen   | <!-- style="background: Darkkhaki"--> auswählen, auswerten, begründen, beurteilen, bewerten, entscheiden, evaluieren, klassifizieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen          |<!-- style="background: khaki"-->  ableiten, beziehen auf, entwerfen, entwickeln, in Beziehung setzen, konzipieren, koordinieren, ordnen, tabellieren, verbinden, zuordnen, zusammenstellen      |
+| <!-- style="background: MediumAquamarine" --> ableiten, analysieren, aufdecken, aufgliedern, aufschlüsseln, aufteilen, aufzeigen, auswählen, auswerten, bestimmen, sich beziehen auf, debattieren, diagnostizieren, differenzieren, einteilen, erkennen, ermitteln, folgern, gegenüberstellen, gliedern, hinterfragen, kategorisieren, klassifizieren, kontrastieren, kritisieren, lösen, organisieren, prüfen, rechtfertigen, schlussfolgern, sortieren, testen, trennen, unterscheiden, untersuchen, urteilen, vergleichen   | <!-- style="background: Darkkhaki"--> auswählen, auswerten, begründen, beurteilen, bewerten, entscheiden, evaluieren, klassifizieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen, verteidigen          |<!-- style="background: khaki"-->  ableiten, beziehen auf, entwerfen, entwickeln, herstellen, konzipieren, koordinieren, ordnen, verbinden, zusammenstellen      |
 
 <div style="page-break-after: always;"></div>
 
@@ -327,6 +325,9 @@ https://www.nat.fau.de/files/2015/12/03-Leitfaden-Leitfaden-zur-Formulierung-kom
 
 David R. Krathwohl (2002) A Revision of Bloom's Taxonomy: An Overview,Theory Into Practice, 41:4, 212-218, DOI: 10.1207/s15430421tip4104_2
 
+Pluntke, S. (2013). Lernziele. In: Lehrrettungsassistent und Dozent im Rettungsdienst. Springer, Berlin, Heidelberg. https://doi.org/10.1007/978-3-642-34940-9_8 
+
+https://paeda-logics.ch/wp-content/uploads/2020/01/Taxonomiestufen_Bloom.pdf
 
 # Informationen zu diesem Dokument
 
