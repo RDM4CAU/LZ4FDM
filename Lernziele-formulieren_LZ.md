@@ -1,6 +1,6 @@
 <!--
 
-author:   Britta
+author:   Britta und Linda
 email:    b.petersen@rz.uni-kiel.de
 version:  0.0.1
 language: de
