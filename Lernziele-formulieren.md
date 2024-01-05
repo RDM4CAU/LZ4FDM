@@ -289,7 +289,7 @@ Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, d
 
 | Eindeutige Formulierung |  Nicht eindeutige Formulierung |
 | -------- | :------ |
-| nennen, erklären, erläutern, beschreiben, anwenden, ausführen,zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
+| nennen, erklären, erläutern, beschreiben, anwenden, ausführen, zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
 | **Beispiel**: Lernende können die FAIR-Prinzipien beschreiben. ✔  |   **Beispiel**: ~Lernende sind mit den FAIR-Prinzipien vertraut.~ ✖ |
 
 Bezüglich der Zuordnung zu den Bloomschen Taxonomiestufen kann diese Verbliste als Orientierung dienen. 
