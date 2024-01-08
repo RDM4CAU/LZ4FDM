@@ -169,9 +169,10 @@ Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stuf
 | <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Beurteilen        |<!-- style="background: DarkKhaki" --> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
 | <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues erschaffen.*        |
 
-<div style="page-break-after: always;"></div>
 
 ![Bloom](/images/abb_taxonomie-bloom.png)
+
+<div style="page-break-after: always;"></div>
 
 # Operationalisierung von Lernzielen
 
