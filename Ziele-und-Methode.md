@@ -30,13 +30,25 @@ logo: images/logos_dalia_dini-nestor.png
 
 # Community Meeting: Arbeitsphase 
 
-> <big>**Kurzbeschreibung unser Ziele, Arbeitsaufträgen & dem Ablauf unserer Arbeitsphase**</big>
+> <big>**Kurzbeschreibung: Regeln, Ziele & Ablauf der Arbeitsphase**</big>
 >
 > *Community Event zur Lernzielmatrix*
 > 
 > Darmstadt, 2024-01-31 - 2024-02-30
 >
 > ![](images/logos_dalia_dini-nestor.png)<!-- width="150px" -->
+
+<div style="page-break-after: always;"></div>
+
+# Regeln
+
+> 1.	Wir wünschen uns eine offene und angenehme Atmosphäre.
+> 2.	Seid offen für alle Beiträge, die eigebracht werden und erkennt jeden Beitrag als diskussionswürdig an.
+> 3.	Alle Teilnehmenden dürfen sich in gleichem Maße in die Diskussion einbringen.
+> 4.	Bitte Unklarheiten ansprechen und klären
+> 5.	Diskussionspunkte/Fragen, die an Eurem Tisch (noch) nicht geklärt werden können, bitte an der Pinnwand notieren.
+
+
 
 <div style="page-break-after: always;"></div>
 
@@ -68,12 +80,7 @@ logo: images/logos_dalia_dini-nestor.png
 
 <div style="page-break-after: always;"></div>
 
-# Methode und Ablauf 
-
-![Bild](images/worldcafe.png)<!-- width="350px" align="right" -->
-
-{{1-2}}
-********************************************************************************
+# Methode und Ablauf
 
 Wir möchten in einer Art World-Café mit Euch arbeiten.
 
@@ -86,6 +93,10 @@ Wir möchten in einer Art World-Café mit Euch arbeiten.
 * Gastgeber:innen bleiben am Tisch
 * Teilnehmende dürfen frei (?!) wählen, ob und zu welchem Thema sie wechseln wollen 
 
+{{1-2}}
+********************************************************************************
+
+![Bild](images/worldcafe.png)<!-- width="350px" align="right" -->
 
 > **Rolle unserer Gastgeber:innen**: erläutern, anregen, begleiten, dokumentieren
 >
