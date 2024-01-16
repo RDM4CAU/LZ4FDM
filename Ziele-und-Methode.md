@@ -40,70 +40,117 @@ logo: images/logos_dalia_dini-nestor.png
 
 <div style="page-break-after: always;"></div>
 
-# Regeln
+# Allgemeine Regeln
 
-> 1.	Wir wünschen uns eine offene und angenehme Atmosphäre.
+> 1.	Wir wünschen uns eine offene und wertschätzende Atmosphäre.
 > 2.	Seid offen für alle Beiträge, die eigebracht werden und erkennt jeden Beitrag als diskussionswürdig an.
 > 3.	Alle Teilnehmenden dürfen sich in gleichem Maße in die Diskussion einbringen.
-> 4.	Bitte Unklarheiten ansprechen und klären
+> 4.	Bitte Unklarheiten ansprechen. 
 > 5.	Diskussionspunkte/Fragen, die an Eurem Tisch (noch) nicht geklärt werden können, bitte an der Pinnwand notieren.
-
-
-
-<div style="page-break-after: always;"></div>
-
-# Ziele für die Arbeitsphase
-
-> * Diskussion und Überarbeitung der Tabellenstruktur 
->
->    * Durchsuchbarkeit, Übersichtlichkeit, Codierbarkeit
-> * Diskussion der aufgeführten Inhaltsaspekte (in Clustern)
->
->   * Anpassungen und Erweiterungen 
->   * ggf. verbindende Elemente zu verwandten Themengebieten ergänzen?
-> * Diskussion aufgeführter Lernziele
->
->   * Sprachliche wie inhaltliche Überarbeitung ungünstig formulierter Lernziele 
->
->   * Ergänzung weiterer Lernziele 
-> * Korrektur von Fehlern 
-> * ...
-
-<div style="page-break-after: always;"></div>
-
-# Arbeitsaufträge 
-
-> <big>**Bitte diskutiert in Euren jeweiligen Arbeitsgruppen:**</big>
->
-> * ...
-
-
-<div style="page-break-after: always;"></div>
-
-# Methode und Ablauf
-
-Wir möchten in einer Art World-Café mit Euch arbeiten.
-
-**Ablauf**:
-
-* Erläuterung der Methode World-Cafe 
-* Vorstellung der Diskussionsthemen & der Gastgeber:innen.
-* Verteilung an die Tische 
-* Vorgegebenene Diskussions-/Arbeitszeit: 30 Min.
-* Gastgeber:innen bleiben am Tisch
-* Teilnehmende dürfen frei (?!) wählen, ob und zu welchem Thema sie wechseln wollen 
-
-{{1-2}}
-********************************************************************************
-
-![Bild](images/worldcafe.png)<!-- width="350px" align="right" -->
-
 > **Rolle unserer Gastgeber:innen**: erläutern, anregen, begleiten, dokumentieren
 >
 > **Alle Teilnehmenden**: reflektieren, diskutieren, argumentieren, aktiv sein
 
+<div style="page-break-after: always;"></div>
+
+# Ziele für die Arbeitsphase
+> * **Diskussion der aufgeführten Inhaltsaspekte (Tische 1-6)** 
+>
+>   * Anpassungen/Erweiterungen nötig? 
+>   * Themenaspekte dem Cluster richtig zugeordnet?
+>   * Korrektur/Markierung einfacher Fehler 
+>   * *ggf. verbindende Elemente zu verwandten Themengebieten?*
+> * **Diskussion aufgeführter Lernziele (Tische 1-6)**
+>
+>   * Anpassungen/Erweiterungen nötig?
+>   * Ergänzung fehlender/weiterer Lernziele
+>   * Markierung uneindeutig formulierter Lernziele für sprachliche Überarbeitung (durch Redaktionsteam)  
+>   * Diskussion der Angemessenheit der Lernziele zu Qualifikationsgraden (Bachelor, Master, PhD, Data Stewards)
+>   * Korrektur von einfachen Fehlern
+> * **Diskussion und Überarbeitung der Tabellenstruktur (Tisch 7)** 
+>
+>    * Durchsuchbarkeit, Übersichtlichkeit, Codierbarkeit
+
+
+<div style="page-break-after: always;"></div>
+
+# Methode und Ablauf (Überblick)
+
+In Anlehnung an die [Design-Thinking-Methode]() wird unsere Arbeitsphase folgendermaßen ablaufen:
+
+> **Heute**
+>
+> 1. Kurze Nennung der Themencluster und zugehöriger "Gastgeber:innen" (~ 5 Min, Plenum)
+> 2. Verteilung an die Tische (~ 3 Min, Plenum)
+> 3. Diskussions- und Arbeitsphase an den Tischen (AGs an den Tischen) (bis 17:30 Uhr)
+> 4. Feedbackrunde (ab 17:30 Uhr)
+
+> **Morgen**
+>
+> 5. Überarbeitungen/Ergänzungen anhand des Feedbacks (AGs an Tischen)
+> 6. Vorbereitungen für die Präsentation der Ergebnisse (AGs an Tischen)
+> 7. Präsentation der Ergebnisse (Plenum)
+> 8. Abschlussplenum und Diskussion 
+
+<div style="page-break-after: always;"></div>
+
+## Arbeit an den Tischen
+
+{{0}}
+********************************************************************************
+
+~~Arbeitsphase am 31. Januar 2024~~
+---
+
+**Schritt 1: WarmUp**
+
+* Kurze Vorstellungsrunde
+
+**Schritt 2: Arbeitsaufträge klären**
+
+* Überblick über die Arbeitsaufträge 
+* Sammlung und Dokumentation weiterer Probleme/Arbeitsaufträge
+
+**Schritt 3: Diskussion und Bearbeitung**
+
+* Schritt-für-Schritt-Bearbeitung der „Arbeitsaufträge“
+
+**Schritt 4: Feedbackrunde**
+
+* Probleme + Lösungen werden mit der „Community“ geteilt:
+
+    * An jedem Tisch bleiben die Gastgeber:innen sowie 1-2 Personen aus der ursprünglichen Arbeitsgruppe.
+    
+* Die restlichen Personen der Gruppe wechseln zu einem frei gewählten anderen Themenbereich. 
+
+   * Die Gruppenvertreter:innen stellen Probleme + Lösungen im Themenbereich vor.
+
+   * Feedback durch die Community, Dokumentation des Feedbacks
+
+> <big>Abschluss des Tages mit gemeinsamen Abendessen :-p (freiwillig und auf Selbstzahlerbasis)</big>
 
 ********************************************************************************
+
+{{1}}
+********************************************************************************
+
+~~Arbeitsphase am 01. Februar 2024~~
+---
+
+**Schritt 5**:
+
+* Ankommen und Recap der Feedbackrunde
+
+**Schritt 6**:
+
+* Ursprüngliche Gruppen treffen sich wieder an ursprünglichen Tischen zusammen und erarbeiten eine konsolidierte Fassung der bisherigen Arbeit.
+
+**Schritt 6**:
+
+* Die Arbeitsgruppen/Tische bereiten eine (kurze) Abschlusspräsentation vor
+
+********************************************************************************
+
 
 {{2}}
 ********************************************************************************
