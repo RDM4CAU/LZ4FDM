@@ -189,7 +189,7 @@ Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stuf
 ********************************************************************************
 Ein Lernziel gilt als operationalisiert, wenn...
 
-* **beobachtbare Verhaltensweisen** der Lernenden beschrieben werden (z. B. "Lernende können die Kriterien nennen" anstatt "Lernende kennen die Kriterien") 
+* **beobachtbare Verhaltensweisen** der Lernenden beschrieben werden (z. B. "Lernende können die Kriterien nennen" anstatt "Lernende wissen etwas über die Kriterien") 
 * **Bedingungen** genannt werden, unter denen das beobachtbare Verhalten stattfinden soll (z. b. "unter Anleitung", "eigenständig") und
 * die **Überprüfbarkeit der Zielerreichung** gegeben ist.
 
