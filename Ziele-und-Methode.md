@@ -93,6 +93,7 @@ logo: images/logos_dalia_dini-nestor.png
 > 3. **Diskussion der Zuordnung zu Qualifikationsstufen  (Tische 1-6)** 
 >
 >   * Diskussion der Angemessenheit der Lernziele zu Qualifikationsstufen
+********************************************************************************
 
 {{3}}
 ********************************************************************************
