@@ -67,21 +67,35 @@ logo: images/logos_dalia_dini-nestor.png
 > 2. Diskussion von Tabellenaufbau, Darstellungsformen, Formalisierung, Speicher- und Publikationsorte 🎯
 
 ## Arbeitsaufträge 
+{{0-1}}
+********************************************************************************
+
 > 1. **Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (Tische 1-6)** 
 >
 >   * Prüfung auf Vollständigkeit
 >   * Prüfung der Zuoordung Themen/Inhalte zu Themencluster
 >   * Korrekturen und Erweiterungen  
+********************************************************************************
+
+{{1-2}}
+********************************************************************************
 
 > 2. **Diskussion aufgeführter Lernziele (Tische 1-6)** 
 >
 >   * Prüfung auf Vollständigkeit 
 >   * Prüfung auf sprachliche Eindeutigkeit 
 >   * Korrekturen und Erweiterungen 
+********************************************************************************
+
+{{2-3}}
+********************************************************************************
 
 > 3. **Diskussion der Zuordnung zu Qualifikationsstufen  (Tische 1-6)** 
 >
 >   * Diskussion der Angemessenheit der Lernziele zu Qualifikationsstufen
+
+{{3}}
+********************************************************************************
 
 > 4. **Diskussion und Überarbeitung der Tabellenstruktur (Tisch 7)** 
 >
@@ -92,12 +106,12 @@ logo: images/logos_dalia_dini-nestor.png
 > > **Für die Tische 1-6 gilt:** 
 > >Diskussionspunkte, die auf Tabellenstruktur/Darstellungsform zeigen bitte auf [Miro-Board]() sammeln. Wenn eine Erläuterung nötig erscheint, bitte abgeordnete Person(en) an Tisch 7 schicken.
 
+********************************************************************************
 <div style="page-break-after: always;"></div>
 
 # Ablauf (Überblick)
-{{0}}
+{{0-1}}
 ********************************************************************************
-
 > **Heute**
 >
 > ~~Vorab im Plenum~~:
