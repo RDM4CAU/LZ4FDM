@@ -45,79 +45,139 @@ logo: images/logos_dalia_dini-nestor.png
 > 1.	Wir wünschen uns eine offene und wertschätzende Atmosphäre.
 > 2.	Seid offen für alle Beiträge, die eigebracht werden und erkennt jeden Beitrag als diskussionswürdig an.
 > 3.	Alle Teilnehmenden dürfen sich in gleichem Maße in die Diskussion einbringen.
-> 4.	Bitte Unklarheiten ansprechen. 
-> 5.	Diskussionspunkte/Fragen, die an Eurem Tisch (noch) nicht geklärt werden können, bitte an der Pinnwand notieren.
+> 4.	Unklarheiten bitte immer ansprechen. 
+> 5.	Diskussionspunkte/Fragen, die an Eurem Tisch (noch) nicht geklärt werden können, bitte auf dem [Miro-Board]() notieren.
 > **Rolle unserer Gastgeber:innen**: erläutern, anregen, begleiten, dokumentieren
 >
-> **Alle Teilnehmenden**: reflektieren, diskutieren, argumentieren, aktiv sein
+> **Alle Teilnehmenden**: reflektieren, diskutieren, argumentieren, formulieren, aktiv sein
 
 <div style="page-break-after: always;"></div>
 
-# Ziele für die Arbeitsphase
-> * **Diskussion der aufgeführten Inhaltsaspekte (Tische 1-6)** 
->
->   * Anpassungen/Erweiterungen nötig? 
->   * Themenaspekte dem Cluster richtig zugeordnet?
->   * Korrektur/Markierung einfacher Fehler 
->   * *ggf. verbindende Elemente zu verwandten Themengebieten?*
-> * **Diskussion aufgeführter Lernziele (Tische 1-6)**
->
->   * Anpassungen/Erweiterungen nötig?
->   * Ergänzung fehlender/weiterer Lernziele
->   * Markierung uneindeutig formulierter Lernziele für sprachliche Überarbeitung (durch Redaktionsteam)  
->   * Diskussion der Angemessenheit der Lernziele zu Qualifikationsgraden (Bachelor, Master, PhD, Data Stewards)
->   * Korrektur von einfachen Fehlern
-> * **Diskussion und Überarbeitung der Tabellenstruktur (Tisch 7)** 
->
->    * Durchsuchbarkeit, Übersichtlichkeit, Codierbarkeit
+# Ziele 
 
+> 1. Inhaltliche Prüfung und Aktualisierung der **generischen** Lernzielmatrix 🎯.
+>
+>   * Prüfung und Aktualisierung der aufgeführten Themen und Inhalte
+>
+>   * Prüfung und Aktualisierung aufgeführter Lernziele
+> 
+>   * Diskussion der Zuordnung von Lernzielen zu Qualifikationsstufen
+> 
+>
+> 2. Diskussion von Tabellenaufbau, Darstellungsformen, Formalisierung, Speicher- und Publikationsorte 🎯
+
+## Arbeitsaufträge 
+> 1. **Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (Tische 1-6)** 
+>
+>   * Prüfung auf Vollständigkeit
+>   * Prüfung der Zuoordung Themen/Inhalte zu Themencluster
+>   * Korrekturen und Erweiterungen  
+
+> 2. **Diskussion aufgeführter Lernziele (Tische 1-6)** 
+>
+>   * Prüfung auf Vollständigkeit 
+>   * Prüfung auf sprachliche Eindeutigkeit 
+>   * Korrekturen und Erweiterungen 
+
+> 3. **Diskussion der Zuordnung zu Qualifikationsstufen  (Tische 1-6)** 
+>
+>   * Diskussion der Angemessenheit der Lernziele zu Qualifikationsstufen
+
+> 4. **Diskussion und Überarbeitung der Tabellenstruktur (Tisch 7)** 
+>
+>   * Codierbarkeit/Notation
+>   * Formalisierung
+>   * Publikation
+>
+> > **Für die Tische 1-6 gilt:** 
+> >Diskussionspunkte, die auf Tabellenstruktur/Darstellungsform zeigen bitte auf [Miro-Board]() sammeln. Wenn eine Erläuterung nötig erscheint, bitte abgeordnete Person(en) an Tisch 7 schicken.
 
 <div style="page-break-after: always;"></div>
 
-# Methode und Ablauf (Überblick)
-
-In Anlehnung an die [Design-Thinking-Methode]() wird unsere Arbeitsphase folgendermaßen ablaufen:
-
-> **Heute**
->
-> 1. Kurze Nennung der Themencluster und zugehöriger "Gastgeber:innen" (~ 5 Min, Plenum)
-> 2. Verteilung an die Tische (~ 3 Min, Plenum)
-> 3. Diskussions- und Arbeitsphase an den Tischen (AGs an den Tischen) (bis 17:30 Uhr)
-> 4. Feedbackrunde (ab 17:30 Uhr)
-
-> **Morgen**
->
-> 5. Überarbeitungen/Ergänzungen anhand des Feedbacks (AGs an Tischen)
-> 6. Vorbereitungen für die Präsentation der Ergebnisse (AGs an Tischen)
-> 7. Präsentation der Ergebnisse (Plenum)
-> 8. Abschlussplenum und Diskussion 
-
-<div style="page-break-after: always;"></div>
-
-## Arbeit an den Tischen
-
+# Ablauf (Überblick)
 {{0}}
 ********************************************************************************
 
-~~Arbeitsphase am 31. Januar 2024~~
+> **Heute**
+>
+> ~~Vorab im Plenum~~:
+>
+> * Kurze Nennung der Themencluster und zugehöriger "Gastgeber:innen" 
+> * Verteilung an die Tische 
+>
+> > **Diskussions- und Arbeitsphase an den Tischen**:
+> >
+> > 1. Warmup und Klärung der Arbeitsaufträge 
+> > 2. Diskussions- und Arbeitsphase 
+> > 3. Dokumentation und Vorbereitung auf Feedbackrunde 
+>
+> <big>*Abschluss des Tages mit gemeinsamen Abendessen* 🥳 *(freiwillig und auf Selbstzahlerbasis)*</big>
+********************************************************************************
+
+{{1}}
+********************************************************************************
+
+> **Morgen**
+>
+> ~~Vorab im Plenum~~:
+>
+> * Erinnerung an den Ablauf des Tages und der Feedbackrunde 
+>
+> > **Diskussions- und Arbeitsphase an den Tischen**:
+> >
+> > 1. Feedbackrunde (⏳ ~ 45 Min) 
+> > 2. Überarbeitungen/Ergänzungen in ursprünglicher Formation unter Einbezug des Feedbacks (⏳ ~ 45 Min) 
+> > 3. Diskussion der Zuordnung zu Qualifikationsstufen (AGs an Tischen) (⏳ ~ 45 Min) 
+> > 4. Dokumentation und Vorbereitungen für die Präsentation der Ergebnisse (AGs an Tischen) (⏳ ~ 30 Min) 
+>
+> ~~Im Plenum~~
+>
+> * Präsentation der Ergebnisse 
+> * Abschlussplenum und Diskussion 
+
+********************************************************************************
+<div style="page-break-after: always;"></div>
+
+## Detaillieter Ablauf am Tisch - Tag 1 
+
+~~Diskussions- und Arbeitsphase an den Tischen 1-6~~
 ---
 
-**Schritt 1: WarmUp**
+**Schritt 1: WarmUp** (⏳ ~ 10 Min.)
 
-* Kurze Vorstellungsrunde
+* Kurze Vorstellungsrunde am Tisch 
 
-**Schritt 2: Arbeitsaufträge klären**
+**Schritt 2: Arbeitsaufträge klären** (⏳ ~ 15 Min.)
 
-* Überblick über die Arbeitsaufträge 
+* Überblick über die Ziele/Arbeitsaufträge 
 * Sammlung und Dokumentation weiterer Probleme/Arbeitsaufträge
 
 **Schritt 3: Diskussion und Bearbeitung**
 
 * Schritt-für-Schritt-Bearbeitung der „Arbeitsaufträge“
 
-**Schritt 4: Feedbackrunde**
+    
+    1. Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (⏳ ~ 30 Min)
 
-* Probleme + Lösungen werden mit der „Community“ geteilt:
+    2. Diskussion aufgeführter Lernziele 
+
+        * Prüfung auf Vollständigkeit (⏳ ~ 30 Min)
+
+      * Ergänzung fehlender Lernziele (⏳ ~ 30 Min)  
+
+      * Markierung uneindeutig formulierter Lernziele für sprachliche Überarbeitung (sprachliche Überarbeitung erfolgt durch Redaktionsteam) (⏳ ~ 30 Min)
+
+**Schritt 4: Dokumentation**
+
+* Dokumentation und Vorbereitungen auf Feedackrunde (⏳ 30 Min)
+
+## Ablauf am Tisch - Tag 2 
+
+~~Diskussions- und Arbeitsphase alle Tische Tag 2~~
+---
+**Schritt 1: Feedbackrunde** (⏳ ~ 45 Min)
+
+* Probleme und Lösungen werden mit der „Community“ geteilt:
 
     * An jedem Tisch bleiben die Gastgeber:innen sowie 1-2 Personen aus der ursprünglichen Arbeitsgruppe.
     
@@ -127,53 +187,30 @@ In Anlehnung an die [Design-Thinking-Methode]() wird unsere Arbeitsphase folgend
 
    * Feedback durch die Community, Dokumentation des Feedbacks
 
-> <big>Abschluss des Tages mit gemeinsamen Abendessen :-p (freiwillig und auf Selbstzahlerbasis)</big>
+**Schritt 2: Verarbeitung des Feedbacks** (⏳ ~ 45 Min)
 
-********************************************************************************
+* Ankommen und Recap der Feedbackrunde 
+* Ursprüngliche Gruppen erarbeiten eine konsolidierte Fassung der bisherigen Arbeit. 
 
-{{1}}
-********************************************************************************
+**Schritt 3: Diskussion der Zuordnung von Lernzielen zu Qualifikationsstufen** (⏳ ~ 30 Min)
 
-~~Arbeitsphase am 01. Februar 2024~~
----
+* Diskussion der Angemessenheit der Lernziele zu Qualifikationsgraden (Bachelor, Master, PhD, Data Stewards)
 
-**Schritt 5**:
+**Schritt 4: Vorbereitung Abschlusspräsentation** (⏳ ~ 30 Min)
 
-* Ankommen und Recap der Feedbackrunde
+* Gemeinsames Festhalten der wichtigsten Diskussionspunkte
+* Die Arbeitsgruppen/Tische bereiten eine (kurze) Abschlusspräsentation vor 
 
-**Schritt 6**:
+# Themen und Gastgeber:innen
 
-* Ursprüngliche Gruppen treffen sich wieder an ursprünglichen Tischen zusammen und erarbeiten eine konsolidierte Fassung der bisherigen Arbeit.
-
-**Schritt 6**:
-
-* Die Arbeitsgruppen/Tische bereiten eine (kurze) Abschlusspräsentation vor
-
-********************************************************************************
-
-
-{{2}}
-********************************************************************************
-
-**Unsere Gastgeber:innen und Diskussionsthemen**:
-
-**Tisch 1**: Grundlagen	-> Jorge
-
-**Tisch 2**: Arbeiten mit Daten	-> Britta
-
-**Tisch 3**: Dokumentation und Metadaten -> Andreas & Cord
-
-**Tisch 4**: Langzeitarchivierung, Publikation, Nachnutzung	-> Ute
-
-**Tisch 5**: Recht und Ethik -> Linda
-
-**Tisch 6**: Unterstützungsstrukturen -> Benjamin
-
-**Tisch 7**: Struktur & technische Aspekte / Formalisierung der Matrix -> Canan
-
-**Tisch 8**: offen für weitere Themen
-
-********************************************************************************
-
+| Tisch / Themencluster | Gastgeberinnen | 
+| -------- | :------: | 
+| **Tisch 1**: Grundlagen     |   Jorge   | 
+| **Tisch 2**: Arbeiten mit Daten     |   Hermann   | 
+| **Tisch 3**: Dokumentation und Metadaten     |   Andreas   | 
+| **Tisch 4**: Langzeitarchivierung, Publikation, Nachnutzung     |   Ute   | 
+| **Tisch 5**: Recht und Ethik     |   Linda   | 
+| **Tisch 6**: Unterstützungsstrukturen     |   Benjamin   | 
+| **Tisch 7**: Struktur & technische Aspekte     |   Canan   |
 
 <div style="page-break-after: always;"></div>
