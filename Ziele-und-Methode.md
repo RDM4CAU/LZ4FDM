@@ -69,7 +69,6 @@ logo: images/logos_dalia_dini-nestor.png
 ## Arbeitsaufträge 
 {{0-1}}
 ********************************************************************************
-
 > 1. **Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (Tische 1-6)** 
 >
 >   * Prüfung auf Vollständigkeit
