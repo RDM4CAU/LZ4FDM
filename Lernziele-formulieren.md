@@ -226,13 +226,13 @@ Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt de
 {{1}}
 ********************************************************************************
 
-⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im EQR werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
+⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im Europäischen Qualifikationsrahmen (EQR) werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
 ********************************************************************************
 
 {{2}}
 ********************************************************************************
 
-⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im Europäischen Qualifikationsrahmen (EQR) werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
+⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
 ********************************************************************************
 
 {{3}}
