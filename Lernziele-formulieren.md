@@ -81,7 +81,7 @@ Die Europäische Gemeinschaft definiert den Begriff **Lernergebnis** folgenderma
 
 > “Lernergebnisse treffen „Aussagen darüber, was ein Lernender weiß, versteht und in der Lage ist zu tun, nachdem er einen Lernprozess abgeschlossen hat. Sie werden als Kenntnisse, Fertigkeiten sowie Verantwortung und Selbstständigkeit definiert”
 >
-> -- [Europäischer Qualifikationsrahmen (EQR) - Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017H0615(01))
+> -- [Europäischer Qualifikationsrahmen (EQR): Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/EN/TXT/HTML/?uri=CELEX:32017H0615(01))
 
 </div>
 ********************************************************************************
@@ -306,7 +306,7 @@ Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch 
 <div style="page-break-after: always;"></div>
 
 # Verwendete Literatur
-[Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017H0615(01)
+[Europäischen Qualifikationsrahmen (EQR): Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017H0615(01)
 
 Stangl, W. (2023, 21. Dezember). Lernzieloperationalisierung. online [werner stangls arbeitsblätter](https://arbeitsblaetter.stangl-taller.at/LERNZIELE/Operationalisierung.shtml)
 
