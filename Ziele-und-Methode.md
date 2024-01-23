@@ -164,7 +164,7 @@ logo: images/logos_dalia_dini-nestor.png
 **Schritt 2: Arbeitsaufträge klären** (⏳ ~ 15 Min.)
 
 * Überblick über die Ziele/Arbeitsaufträge 
-* Sammlung und Dokumentation weiterer fragliche Punkte/Arbeitsaufträge
+* Sammlung und Dokumentation weiterer fraglichen Punkte/Arbeitsaufträge
 
 **Schritt 3: Diskussion und Bearbeitung**
 
