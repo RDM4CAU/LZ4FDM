@@ -232,7 +232,7 @@ Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt de
 {{2}}
 ********************************************************************************
 
-⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
+⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im Europäischen Qualifikationsrahmen (EQR) werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
 ********************************************************************************
 
 {{3}}
