@@ -81,7 +81,7 @@ Die Europäische Gemeinschaft definiert den Begriff **Lernergebnis** folgenderma
 
 > “Lernergebnisse treffen „Aussagen darüber, was ein Lernender weiß, versteht und in der Lage ist zu tun, nachdem er einen Lernprozess abgeschlossen hat. Sie werden als Kenntnisse, Fertigkeiten sowie Verantwortung und Selbstständigkeit definiert”
 >
-> -- [Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017H0615(01)
+> -- [Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017H0615(01))
 
 </div>
 ********************************************************************************
