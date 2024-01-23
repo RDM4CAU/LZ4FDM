@@ -164,7 +164,7 @@ logo: images/logos_dalia_dini-nestor.png
 **Schritt 2: Arbeitsaufträge klären** (⏳ ~ 15 Min.)
 
 * Überblick über die Ziele/Arbeitsaufträge 
-* Sammlung und Dokumentation weiterer Probleme/Arbeitsaufträge
+* Sammlung und Dokumentation weiterer fragliche Punkte/Arbeitsaufträge
 
 **Schritt 3: Diskussion und Bearbeitung**
 
@@ -191,13 +191,13 @@ logo: images/logos_dalia_dini-nestor.png
 ---
 **Schritt 1: Feedbackrunde** (⏳ ~ 45 Min)
 
-* Probleme und Lösungen werden mit der „Community“ geteilt:
+* Änderungsvorschläge werden mit der „Community“ geteilt:
 
     * An jedem Tisch bleiben die Gastgeber:innen sowie 1-2 Personen aus der ursprünglichen Arbeitsgruppe.
     
 * Die restlichen Personen der Gruppe wechseln zu einem frei gewählten anderen Themenbereich. 
 
-   * Die Gruppenvertreter:innen stellen Probleme + Lösungen im Themenbereich vor.
+   * Die Gruppenvertreter:innen stellen Änderungsvorschläge im Themenbereich vor.
 
    * Feedback durch die Community, Dokumentation des Feedbacks
 
