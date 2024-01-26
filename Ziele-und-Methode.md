@@ -174,9 +174,22 @@ logo: images/logos_dalia_dini-nestor.png
     
     1. Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (⏳ ~ 30 Min)
 
+        * Diskussion, ob die Themen und Inhalte passend erscheinen
+
+      * Ergänzung von Inhalten
+
+      * Diskussion, ob dem Cluster "Themen" fehlen
+
+      * Bei neuem "Themen bitte "Inhalte" sammeln
+
+
     2. Diskussion aufgeführter Lernziele 
 
         * Prüfung auf Vollständigkeit (⏳ ~ 25 Min)
+
+            * Werden alle aufgeführten "Inhalte" in Lernzielen adressiert?
+
+            * Was fehlt noch (Themen, Inhalte...)?
 
       * Ergänzung fehlender Lernziele (⏳ ~ 25 Min)  
 
