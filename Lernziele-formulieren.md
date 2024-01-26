@@ -1,6 +1,6 @@
 <!--
 
-author:   Britta
+author:   Britta, Linda
 email:    b.petersen@rz.uni-kiel.de
 version:  0.0.1
 language: de
@@ -9,7 +9,7 @@ title: Lernziele
 
 comment: Präsentation und Handout zum Community Event zur Lernzielmatrix FDM, Darmstadt 2024-01-31 - 2024-02-01
 
-licence: 
+licence: cc-by
 
 
 logo: images/logos_dalia_dini-nestor.png
@@ -43,9 +43,9 @@ logo: images/logos_dalia_dini-nestor.png
 
 # Bedeutung
 
-- 2 Tage Lernzielmatrix – deshalb wichtig, was Lernziele überhaupt sind
+- 2 Tage Lernzielmatrix – was sind Lernziele überhaupt
 
-- alle auf den gleichen Wissensstand bringen (nicht alle sind Didaktiker)
+- alle auf den gleichen Wissensstand bringen 
 
 - Bedeutung für die Matrix veranschaulichen
 
