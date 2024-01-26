@@ -338,6 +338,6 @@ https://paeda-logics.ch/wp-content/uploads/2020/01/Taxonomiestufen_Bloom.pdf
 | Titel     |   @title   |
 | Einsatz     |   @comment   |
 | Autor:innen     |   @author   |
-| Lizenz     |   @author   |
+| Lizenz     |   @licence   |
 | Link zum Repository     |     |
 
