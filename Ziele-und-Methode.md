@@ -72,7 +72,7 @@ logo: images/logos_dalia_dini-nestor.png
 > 1. **Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (Tische 1-6)** 
 >
 >   * Prüfung, ob die Themen und Inhalte passend sind
- >  * Prüfung auf Vollständigkeit
+>   * Prüfung auf Vollständigkeit
 >   * Prüfung der Zuoordung Themen/Inhalte zu Themencluster
 >   * Korrekturen und Erweiterungen  
 ********************************************************************************
@@ -82,25 +82,10 @@ logo: images/logos_dalia_dini-nestor.png
 
 > 2. **Diskussion aufgeführter Lernziele (Tische 1-6)** 
 >
->   * Prüfung auf Vollständigkeit 
->   * Ergänzung fehlender bzw. zusätzlicher Lernziele
->   * Prüfung auf sprachliche Eindeutigkeit 
->   * Korrekturen und Erweiterungen 
-********************************************************************************
-
-{{1-2}}
-********************************************************************************
-
-> 2. **Diskussion aufgeführter Lernziele (Tische 1-6)** 
->
 >   * Prüfung auf Vollständigkeit
->       * Werden alle aufgeführten "Inhalte" in Lernzielen adressiert? 
->       * Fehlt noch ein Inhalt, braucht es ein neues Thema?
->   * Ergänzung fehlender Lernziele
+>   * Ergänzung fehlender Lernziele bzw. zusätzlicher Lernziele
 >   * Markierung nich eindeutig formulierter Lernziele für sprachliche Überarbeitung 
 ********************************************************************************
-
-
 
 {{2-3}}
 ********************************************************************************
