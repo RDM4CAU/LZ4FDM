@@ -34,7 +34,7 @@ logo: images/logos_dalia_dini-nestor.png
 >
 > *Community Event zur Lernzielmatrix*
 > 
-> Darmstadt, 2024-01-31 - 2024-02-30
+> Darmstadt, 2024-01-31 - 2024-02-01
 >
 > ![](images/logos_dalia_dini-nestor.png)<!-- width="150px" -->
 
