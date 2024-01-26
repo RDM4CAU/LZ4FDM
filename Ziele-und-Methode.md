@@ -43,10 +43,10 @@ logo: images/logos_dalia_dini-nestor.png
 # Allgemeine Regeln
 
 > 1.	Wir wünschen uns eine offene und wertschätzende Atmosphäre.
-> 2.	Seid offen für alle Beiträge, die eigebracht werden und erkennt jeden Beitrag als diskussionswürdig an.
+> 2.	Seid offen für alle Beiträge, die eingebracht werden und erkennt jeden Beitrag als diskussionswürdig an.
 > 3.	Alle Teilnehmenden dürfen sich in gleichem Maße in die Diskussion einbringen.
 > 4.	Unklarheiten bitte immer ansprechen. 
-> 5.	Diskussionspunkte/Fragen, die an Eurem Tisch (noch) nicht geklärt werden können, bitte auf dem [Miro-Board]() notieren.
+> 5.	Diskussionspunkte/Fragen, die an Eurem Tisch (noch) nicht geklärt werden können, bitte auf dem [Miro-Board](https://miro.com/app/board/uXjVN5RK86g=/?share_link_id=745536737565) notieren.
 > **Rolle unserer Gastgeber:innen**: erläutern, anregen, begleiten, dokumentieren
 >
 > **Alle Teilnehmenden**: reflektieren, diskutieren, argumentieren, formulieren, aktiv sein
@@ -71,7 +71,8 @@ logo: images/logos_dalia_dini-nestor.png
 ********************************************************************************
 > 1. **Diskussion der aufgeführten Themen und deren Inhalte innerhalb des Themenclusters (Tische 1-6)** 
 >
->   * Prüfung auf Vollständigkeit
+>   * Prüfung, ob die Themen und Inhalte passend sind
+ >  * Prüfung auf Vollständigkeit
 >   * Prüfung der Zuoordung Themen/Inhalte zu Themencluster
 >   * Korrekturen und Erweiterungen  
 ********************************************************************************
@@ -82,9 +83,24 @@ logo: images/logos_dalia_dini-nestor.png
 > 2. **Diskussion aufgeführter Lernziele (Tische 1-6)** 
 >
 >   * Prüfung auf Vollständigkeit 
+>   * Ergänzung fehlender bzw. zusätzlicher Lernziele
 >   * Prüfung auf sprachliche Eindeutigkeit 
 >   * Korrekturen und Erweiterungen 
 ********************************************************************************
+
+{{1-2}}
+********************************************************************************
+
+> 2. **Diskussion aufgeführter Lernziele (Tische 1-6)** 
+>
+>   * Prüfung auf Vollständigkeit
+>       * Werden alle aufgeführten "Inhalte" in Lernzielen adressiert? 
+>       * Fehlt noch ein Inhalt, braucht es ein neues Thema?
+>   * Ergänzung fehlender Lernziele
+>   * Markierung nich eindeutig formulierter Lernziele für sprachliche Überarbeitung 
+********************************************************************************
+
+
 
 {{2-3}}
 ********************************************************************************
@@ -175,11 +191,11 @@ logo: images/logos_dalia_dini-nestor.png
 
     2. Diskussion aufgeführter Lernziele 
 
-        * Prüfung auf Vollständigkeit (⏳ ~ 30 Min)
+        * Prüfung auf Vollständigkeit (⏳ ~ 25 Min)
 
-      * Ergänzung fehlender Lernziele (⏳ ~ 30 Min)  
+      * Ergänzung fehlender Lernziele (⏳ ~ 25 Min)  
 
-      * Markierung uneindeutig formulierter Lernziele für sprachliche Überarbeitung (sprachliche Überarbeitung erfolgt durch Redaktionsteam) (⏳ ~ 30 Min)
+      * Markierung uneindeutig formulierter Lernziele für sprachliche Überarbeitung (sprachliche Überarbeitung erfolgt durch Redaktionsteam) (⏳ ~ 25 Min)
 
 **Schritt 4: Dokumentation**
 
@@ -206,7 +222,7 @@ logo: images/logos_dalia_dini-nestor.png
 * Ankommen und Recap der Feedbackrunde 
 * Ursprüngliche Gruppen erarbeiten eine konsolidierte Fassung der bisherigen Arbeit. 
 
-**Schritt 3: Diskussion der Zuordnung von Lernzielen zu Qualifikationsstufen** (⏳ ~ 30 Min)
+**Schritt 3: Diskussion der Zuordnung von Lernzielen zu Qualifikationsstufen** (⏳ ~ 45 Min)
 
 * Diskussion der Angemessenheit der Lernziele zu Qualifikationsgraden (Bachelor, Master, PhD, Data Stewards)
 
