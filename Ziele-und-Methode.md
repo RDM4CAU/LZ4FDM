@@ -1,6 +1,6 @@
 <!--
 
-author:   Britta
+author:   Britta Petersen, Linda Zollitsch, Jorge Murcia Serra, Canan Hastik, Benjamin Slowig, Andreas Mühlichen, Hermann Schranzhofer 
 email:    b.petersen@rz.uni-kiel.de
 version:  0.0.1
 language: de
@@ -9,7 +9,7 @@ title: Methode und Ablauf
 
 comment: Kurzbeschreibung des Ablaufes der Arbeitsphase, Community Event zur Lernzielmatrix FDM, Darmstadt 2024-01-31/2024-02-01
 
-licence: 
+licence: cc by
 
 logo: images/logos_dalia_dini-nestor.png
 
@@ -248,3 +248,13 @@ logo: images/logos_dalia_dini-nestor.png
 | **Tisch 7**: Struktur & technische Aspekte     |   Canan   |
 
 <div style="page-break-after: always;"></div>
+
+# Informationen zu diesem Dokument
+
+| Parameter | Kurzinformationen |
+| -------- | :------ |
+| Titel     |   @title   |
+| Einsatz     |   @comment   |
+| Autor:innen     |   @author   |
+| Lizenz     |   @licence   |
+| Link zum Repository     | https://github.com/RDM4CAU/LZ4FDM    |
