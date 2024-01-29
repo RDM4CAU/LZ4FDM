@@ -41,9 +41,11 @@ logo: images/logos_dalia_dini-nestor.png
 
 <div style="page-break-after: always;"></div>
 
-# Bedeutung
+# Warum?
 
-- 2 Tage Lernzielmatrix – was sind Lernziele überhaupt
+- 2 Tage arbeiten mit der Lernzielmatrix – was sind Lernziele überhaupt
+
+- Grundlage für die gemeinsame Arbeit schaffen
 
 - alle auf den gleichen Wissensstand bringen 
 
@@ -250,6 +252,8 @@ Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt de
 
 # Formulierung von Lernzielen
 
+{{1}}
+********************************************************************************
 Bitte beachtet bei der gemeinsamen Arbeit folgende Punkte: 
 
 * Lernziele haben immer eine **Inhalts**- und eine **Verhaltenskomponente**. 
@@ -259,7 +263,11 @@ Bitte beachtet bei der gemeinsamen Arbeit folgende Punkte:
 * Lernzielsätze sind handlungsorientiert und möglichst eindeutig, Adjektive und Ausschmückungen entfallen wo möglich -> Es geht nicht um sprachliche Schönheit.
 * Damit wir einheitlich bleiben: Wir haben uns auf die Nutzung von "können" geeinigt -> *Lernende können... benennen/anwenden/diskutieren/...*
 
-## Formulierungsbeispiele
+********************************************************************************
+
+{{2}}
+********************************************************************************
+**Formulierungsbeispiele**
 
 <div style="float:left; width:65%;">
 Lernende können...
@@ -281,6 +289,8 @@ Lernende können...
 * *Bedingung*<!-- style="color: LightSeaGreen" -->
 
 </div>
+
+********************************************************************************
 
 <div style="page-break-after: always;"></div>
 
