@@ -66,6 +66,8 @@ logo: images/logos_dalia_dini-nestor.png
 >
 > 2. Diskussion von Tabellenaufbau, Darstellungsformen, Formalisierung, Speicher- und Publikationsorte 🎯
 
+<div style="page-break-after: always;"></div>
+
 ## Arbeitsaufträge 
 {{0-1}}
 ********************************************************************************
@@ -228,6 +230,8 @@ logo: images/logos_dalia_dini-nestor.png
 
 * Gemeinsames Festhalten der wichtigsten Diskussionspunkte
 * Die Arbeitsgruppen/Tische bereiten eine (kurze) Abschlusspräsentation vor 
+
+<div style="page-break-after: always;"></div>
 
 # Themen und Gastgeber:innen
 
