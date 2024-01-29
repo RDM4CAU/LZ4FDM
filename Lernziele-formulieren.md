@@ -1,6 +1,6 @@
 <!--
 
-author:   Britta, Linda
+author:   Britta Petersen, Linda Zollitsch
 email:    b.petersen@rz.uni-kiel.de
 version:  0.0.1
 language: de
@@ -53,6 +53,8 @@ logo: images/logos_dalia_dini-nestor.png
 
 - Bedeutung für die Matrix veranschaulichen
 
+<div style="page-break-after: always;"></div>
+
 ## Begriffsklärung
 
 <div style="float:left; width:95%;">
@@ -64,6 +66,7 @@ Den Begriffen gemein ist, dass sie <span style="border: 1px solid #399193;">**Zi
 
 {{1}}
 ********************************************************************************
+
 Der Begriff **Lernziel** kann folgendermaßen definiert werden: 
 
 
@@ -89,6 +92,8 @@ Die Europäische Gemeinschaft definiert den Begriff **Lernergebnis** folgenderma
 
 </div>
 ********************************************************************************
+
+<div style="page-break-after: always;"></div>
 
 ## Vor- und Nachteile
 
@@ -159,7 +164,6 @@ Lernziele...
 
 <div style="page-break-after: always;"></div>
 
-
 ## Taxonomie von Lernzielen
 Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stufen des Lernprozesses unterschieden werden, in denen der Komplexitätsgrad steigt:
 
@@ -203,7 +207,6 @@ Ein Lernziel gilt als operationalisiert, wenn...
 
 <div style="page-break-after: always;"></div>
 
-
 ## Kompetenzbereiche
 
 Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereiche zugewiesen, die durch das jeweilige Lernziel angesprochen werden.
@@ -219,7 +222,6 @@ Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereic
 | <!-- style="background: white" --> Selbstkompetenz [SeK]  | <!-- style="background: white"-->  Fähigkeit und Bereitschaft, sich weiterzuentwickeln und das eigene Leben eigenständig und verantwortlich im jeweiligen sozialen, kulturellen bzw. beruflichen Kontext zu gestalten.      |<!-- style="background: white"--> *Lernende können Forschungsdatenpolicies kritisch diskutieren.*        |
 
 <div style="page-break-after: always;"></div>
-
 
 ### Unterscheidung Kenntnisse, Fertigkeiten, Kompetenzen
 
@@ -249,8 +251,6 @@ Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt de
 </div>
 
 <div style="page-break-after: always;"></div>
-
-
 
 # Formulierung von Lernzielen
 
@@ -351,5 +351,5 @@ https://paeda-logics.ch/wp-content/uploads/2020/01/Taxonomiestufen_Bloom.pdf
 | Einsatz     |   @comment   |
 | Autor:innen     |   @author   |
 | Lizenz     |   @licence   |
-| Link zum Repository     |     |
+| Link zum Repository     | https://github.com/RDM4CAU/LZ4FDM    |
 
