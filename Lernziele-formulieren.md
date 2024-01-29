@@ -43,7 +43,9 @@ logo: images/logos_dalia_dini-nestor.png
 
 # Warum?
 
-- 2 Tage arbeiten mit der Lernzielmatrix – was sind Lernziele überhaupt
+- 2 Tage arbeiten mit der Lernzielmatrix 
+
+- Was sind Lernziele
 
 - Grundlage für die gemeinsame Arbeit schaffen
 
