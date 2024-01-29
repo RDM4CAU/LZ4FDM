@@ -343,6 +343,8 @@ Pluntke, S. (2013). Lernziele. In: Lehrrettungsassistent und Dozent im Rettungsd
 
 https://paeda-logics.ch/wp-content/uploads/2020/01/Taxonomiestufen_Bloom.pdf
 
+<div style="page-break-after: always;"></div>
+
 # Informationen zu diesem Dokument
 
 | Parameter | Kurzinformationen |
