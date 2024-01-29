@@ -45,7 +45,7 @@ logo: images/logos_dalia_dini-nestor.png
 
 - 2 Tage arbeiten mit der Lernzielmatrix 
 
-- Was sind Lernziele
+- Klärung von Begriffen
 
 - Grundlage für die gemeinsame Arbeit schaffen
 
@@ -164,7 +164,7 @@ Lernziele...
 
 <div style="page-break-after: always;"></div>
 
-## Taxonomie von Lernzielen
+# Taxonomie von Lernzielen
 Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stufen des Lernprozesses unterschieden werden, in denen der Komplexitätsgrad steigt:
 
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
@@ -176,7 +176,6 @@ Nach der Taxonomie von Bloom bzw. Anderson & Krathwohl können verschiedene Stuf
 | <!-- style="background: MediumAquamarine" --> 4   | <!-- style="background: MediumAquamarine"--> Analysieren        |<!-- style="background: MediumAquamarine"--> *Lernende können Sachverhalte in Elemente und Beziehungen zerlegen und sinnvoll strukturieren.*        |
 | <!-- style="background: DarkKhaki" --> 5   | <!-- style="background: DarkKhaki"--> Beurteilen        |<!-- style="background: DarkKhaki" --> *Lernende können Sachverhalte (anhand festgelegter Kriterien) beurteilen.*        |
 | <!-- style="background: Khaki" --> 6   | <!-- style="background: Khaki"--> Erschaffen       |<!-- style="background: Khaki"--> *Lernende können Sachverhalte kombinieren und etwas Neues erschaffen.*        |
-
 
 ![Bloom](/images/abb_taxonomie-bloom.png)
 
@@ -207,48 +206,25 @@ Ein Lernziel gilt als operationalisiert, wenn...
 
 <div style="page-break-after: always;"></div>
 
-## Kompetenzbereiche
 
-Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereiche zugewiesen, die durch das jeweilige Lernziel angesprochen werden.
+## Formulierungshilfen
 
-<big>Eine Zuordnung ist nicht immer eindeutig möglich.:-|</big>
+Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, die eine Verhaltensbeobachtung (und damit eine Messbarkeit) möglich machen. 
+
+| Eindeutige Formulierung |  Nicht eindeutige Formulierung |
+| -------- | :------ |
+| nennen, erklären, erläutern, beschreiben, anwenden, ausführen, zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
+| **Beispiel**: Lernende können die FAIR-Prinzipien beschreiben. ✔  |   **Beispiel**: ~Lernende sind mit den FAIR-Prinzipien vertraut.~ ✖ |
+
+Bezüglich der Zuordnung zu den Bloomschen Taxonomiestufen kann diese Verbliste als Orientierung dienen. 
+
+Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch die doppelte Zuordnung eines Verbs in verschiedene Stufen sind möglich. 
 
 <!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
-| <!-- style="background: white"--> Kompetenz | <!-- style="background: white"--> Beschreibung        |<!-- style="background: white"--> Beispiel        |
-|:------------------------------------------ |:------------------------------------------------- |:------------------------------------------------- |
-| <!-- style="background: lightcyan"--> Sachkompetenz [SK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, Aufgaben und Problemstellungen fachlich angemessen zu bearbeiten und das Ergebnis zu beurteilen. |<!-- style="background: lightcyan"--> *Lernende können erklären, was eine Forschungsdatenpolicy ist.* |
-| <!-- style="background: white" --> Methodenkompetenz [MK]  | <!-- style="background: white"--> Fähigkeit und Bereitschaft zur Anwendung fachlich angemessener Lern- und Arbeitsmethoden.   |<!-- style="background: white"--> *Lernende können aus Forschungsdatenpolicies Handlungen ableiten.*        |
-| <!-- style="background: lightcyan" --> Sozialkompetenz [SoK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, zielorientiert mit anderen zusammenzuarbeiten, Interessen und soziale Situationen zu erfassen, verantwortungsbewusste Auseinanderzusetzung und Mitgestaltung der Arbeits- und Lebenswelt.          |<!-- style="background: lightcyan"--> *Lernende können die Inhalte der Forschungsdatenpolicies an andere vermitteln.*        |
-| <!-- style="background: white" --> Selbstkompetenz [SeK]  | <!-- style="background: white"-->  Fähigkeit und Bereitschaft, sich weiterzuentwickeln und das eigene Leben eigenständig und verantwortlich im jeweiligen sozialen, kulturellen bzw. beruflichen Kontext zu gestalten.      |<!-- style="background: white"--> *Lernende können Forschungsdatenpolicies kritisch diskutieren.*        |
-
-<div style="page-break-after: always;"></div>
-
-### Unterscheidung Kenntnisse, Fertigkeiten, Kompetenzen
-
-<div style="float:left; width:95%;">
-
-Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt definiert werden: 
-
-{{1}}
-********************************************************************************
-
-⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im Europäischen Qualifikationsrahmen (EQR) werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{2}}
-********************************************************************************
-
-⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
-⇨ **„Kompetenz“** [ist] die nachgewiesene Fähigkeit, Kenntnisse, Fertigkeiten sowie persönliche, soziale und/oder methodische Fähigkeiten in Arbeits- oder Lernsituationen und für die berufliche und persönliche Entwicklung zu nutzen.[^1](Amtsblatt der Europäischen Union, 2017)
-
-********************************************************************************
-
-</div>
+| <!-- style="background: lightcyan"--> **Stufe 1: Wissen** | <!-- style="background: cyan"--> **Stufe 2: Verständnis** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwendung** |
+| <!-- style="background: lightcyan" --> auflisten, aufzählen, benennen, beschreiben, bezeichnen, darstellen, finden, gliedern, nennen, präsentieren, reproduzieren, schildern, schreiben,  wiedergeben, wiederholen   | <!-- style="background: cyan"--> bestimmen, charakterisieren, erkennen, erklären, erläutern, identifizieren, illustrieren, lokalisieren, zusammenfassen        |<!-- style="background: DarkTurquoise"--> anwenden, bedienen, benutzen, berechnen, durchführen, fertigen, implementieren, machen, nutzen, praktizieren, realisieren, transferieren, umsetzen, verwenden     |
+| <!-- style="background: MediumAquamarine"--> **Stufe 4: Analysieren**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Beurteilen**        |<!-- style="background: Khaki"--> **Stufe 6: Erschaffen**        |
+| <!-- style="background: MediumAquamarine" --> analysieren, auswählen, differenzieren, ermitteln, folgern, gegenüberstellen, hinterfragen, kategorisieren, klassifizieren, organisieren, testen, unterscheiden, untersuchen   | <!-- style="background: Darkkhaki"--> begründen, beurteilen, bewerten, entscheiden, evaluieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen, verteidigen          |<!-- style="background: khaki"-->  beziehen auf, entwerfen, entwickeln, herstellen, konzipieren, koordinieren, ordnen, verbinden, zusammenstellen      |
 
 <div style="page-break-after: always;"></div>
 
@@ -296,28 +272,52 @@ Lernende können...
 
 <div style="page-break-after: always;"></div>
 
-## Formulierungshilfen
+# Kompetenzbereiche
 
-Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, die eine Verhaltensbeobachtung (und damit eine Messbarkeit) möglich machen. 
+Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereiche zugewiesen, die durch das jeweilige Lernziel angesprochen werden.
 
-| Eindeutige Formulierung |  Nicht eindeutige Formulierung |
-| -------- | :------ |
-| nennen, erklären, erläutern, beschreiben, anwenden, ausführen, zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
-| **Beispiel**: Lernende können die FAIR-Prinzipien beschreiben. ✔  |   **Beispiel**: ~Lernende sind mit den FAIR-Prinzipien vertraut.~ ✖ |
+<span style="border: 1px solid #399193;">Aus Zeitgründen erfolgt **keine** eingehende Diskussion und zu den Kompetenzbereichen während des Community Events.:-|</span>
 
-Bezüglich der Zuordnung zu den Bloomschen Taxonomiestufen kann diese Verbliste als Orientierung dienen. 
-
-Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch die doppelte Zuordnung eines Verbs in verschiedene Stufen sind möglich. 
-
-<!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
-| <!-- style="background: lightcyan"--> **Stufe 1: Wissen** | <!-- style="background: cyan"--> **Stufe 2: Verständnis** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwendung** |
-| <!-- style="background: lightcyan" --> auflisten, aufzählen, benennen, beschreiben, bezeichnen, darstellen, finden, gliedern, nennen, präsentieren, reproduzieren, schildern, schreiben,  wiedergeben, wiederholen   | <!-- style="background: cyan"--> bestimmen, charakterisieren, erkennen, erklären, erläutern, identifizieren, illustrieren, lokalisieren, zusammenfassen        |<!-- style="background: DarkTurquoise"--> anwenden, bedienen, benutzen, berechnen, durchführen, fertigen, implementieren, machen, nutzen, praktizieren, realisieren, transferieren, umsetzen, verwenden     |
-| <!-- style="background: MediumAquamarine"--> **Stufe 4: Analysieren**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Beurteilen**        |<!-- style="background: Khaki"--> **Stufe 6: Erschaffen**        |
-| <!-- style="background: MediumAquamarine" --> analysieren, auswählen, differenzieren, ermitteln, folgern, gegenüberstellen, hinterfragen, kategorisieren, klassifizieren, organisieren, testen, unterscheiden, untersuchen   | <!-- style="background: Darkkhaki"--> begründen, beurteilen, bewerten, entscheiden, evaluieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen, verteidigen          |<!-- style="background: khaki"-->  beziehen auf, entwerfen, entwickeln, herstellen, konzipieren, koordinieren, ordnen, verbinden, zusammenstellen      |
+<!-- style="width: 80%; min-width: 400px; color: black; font-size:18px" -->
+| <!-- style="background: white"--> Kompetenz | <!-- style="background: white"--> Beschreibung        |<!-- style="background: white"--> Beispiel        |
+|:------------------------------------------ |:------------------------------------------------- |:------------------------------------------------- |
+| <!-- style="background: lightcyan"--> Sachkompetenz [SK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, Aufgaben und Problemstellungen fachlich angemessen zu bearbeiten und das Ergebnis zu beurteilen. |<!-- style="background: lightcyan"--> *Lernende können erklären, was eine Forschungsdatenpolicy ist.* |
+| <!-- style="background: white" --> Methodenkompetenz [MK]  | <!-- style="background: white"--> Fähigkeit und Bereitschaft zur Anwendung fachlich angemessener Lern- und Arbeitsmethoden.   |<!-- style="background: white"--> *Lernende können aus Forschungsdatenpolicies Handlungen ableiten.*        |
+| <!-- style="background: lightcyan" --> Sozialkompetenz [SoK]   | <!-- style="background: lightcyan"--> Fähigkeit und Bereitschaft, zielorientiert mit anderen zusammenzuarbeiten, Interessen und soziale Situationen zu erfassen, verantwortungsbewusste Auseinanderzusetzung und Mitgestaltung der Arbeits- und Lebenswelt.          |<!-- style="background: lightcyan"--> *Lernende können die Inhalte der Forschungsdatenpolicies an andere vermitteln.*        |
+| <!-- style="background: white" --> Selbstkompetenz [SeK]  | <!-- style="background: white"-->  Fähigkeit und Bereitschaft, sich weiterzuentwickeln und das eigene Leben eigenständig und verantwortlich im jeweiligen sozialen, kulturellen bzw. beruflichen Kontext zu gestalten.      |<!-- style="background: white"--> *Lernende können Forschungsdatenpolicies kritisch diskutieren.*        |
 
 <div style="page-break-after: always;"></div>
 
-# Verwendete Literatur
+### Unterscheidung Kenntnisse, Fertigkeiten, Kompetenzen
+
+<div style="float:left; width:95%;">
+
+Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt definiert werden: 
+
+{{1}}
+********************************************************************************
+
+⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im Europäischen Qualifikationsrahmen (EQR) werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
+********************************************************************************
+
+{{2}}
+********************************************************************************
+
+⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
+********************************************************************************
+
+{{3}}
+********************************************************************************
+
+⇨ **„Kompetenz“** [ist] die nachgewiesene Fähigkeit, Kenntnisse, Fertigkeiten sowie persönliche, soziale und/oder methodische Fähigkeiten in Arbeits- oder Lernsituationen und für die berufliche und persönliche Entwicklung zu nutzen.[^1](Amtsblatt der Europäischen Union, 2017)
+
+********************************************************************************
+
+</div>
+
+<div style="page-break-after: always;"></div>
+
+# Verwendete Materialien
 [Europäischen Qualifikationsrahmen (EQR): Amtsblatt der Europäischen Union, 2017](https://eur-lex.europa.eu/legal-content/DE/TXT/HTML/?uri=CELEX:32017H0615(01)
 
 Stangl, W. (2023, 21. Dezember). Lernzieloperationalisierung. online [werner stangls arbeitsblätter](https://arbeitsblaetter.stangl-taller.at/LERNZIELE/Operationalisierung.shtml)
