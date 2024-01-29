@@ -155,7 +155,7 @@ logo: images/logos_dalia_dini-nestor.png
 ********************************************************************************
 <div style="page-break-after: always;"></div>
 
-## Detaillieter Ablauf am Tisch - Tag 1 
+## Ablauf am Tisch - Tag 1 
 
 ~~Diskussions- und Arbeitsphase an den Tischen 1-6~~
 ---
