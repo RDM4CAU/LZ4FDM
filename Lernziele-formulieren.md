@@ -276,7 +276,7 @@ Lernende können...
 
 Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereiche zugewiesen, die durch das jeweilige Lernziel angesprochen werden.
 
-<span style="border: 1px solid #399193;">Aus Zeitgründen erfolgt **keine** eingehende Diskussion und zu den Kompetenzbereichen während des Community Events.:-|</span>
+<span style="border: 1px solid #399193;">Aus Zeitgründen erfolgt **keine** Diskussion zu den Kompetenzbereichen während des Community Events.:-|</span>
 
 <!-- style="width: 80%; min-width: 400px; color: black; font-size:18px" -->
 | <!-- style="background: white"--> Kompetenz | <!-- style="background: white"--> Beschreibung        |<!-- style="background: white"--> Beispiel        |
@@ -285,35 +285,6 @@ Wir haben den Lernzielen einem einfachen Kompetenzmodell folgend Kompetenzbereic
 | <!-- style="background: white" --> Methodenkompetenz [MK]  | <!-- style="background: white"--> Fähigkeit & Bereitschaft zur Anwendung fachlich angemessener Lern- & Arbeitsmethoden.   |<!-- style="background: white"--> *Lernende können aus Forschungsdatenpolicies Handlungen ableiten.*        |
 | <!-- style="background: lightcyan" --> Sozialkompetenz [SoK]   | <!-- style="background: lightcyan"--> Fähigkeit & Bereitschaft, zielorientiert zusammenzuarbeiten, Interessen & soziale Situationen zu erfassen, verantwortungsbewusste Auseinanderzusetzung & Mitgestaltung der Arbeits- & Lebenswelt.          |<!-- style="background: lightcyan"--> *Lernende können die Inhalte der Forschungsdatenpolicies an andere vermitteln.*        |
 | <!-- style="background: white" --> Selbstkompetenz [SeK]  | <!-- style="background: white"-->  Fähigkeit & Bereitschaft, sich weiterzuentwickeln & das eigene Leben eigenständig und verantwortlich im jeweiligen sozialen, kulturellen bzw. beruflichen Kontext zu gestalten.      |<!-- style="background: white"--> *Lernende können Forschungsdatenpolicies kritisch diskutieren.*        |
-
-<div style="page-break-after: always;"></div>
-
-### Unterscheidung Kenntnisse, Fertigkeiten, Kompetenzen
-
-<div style="float:left; width:95%;">
-
-Die Begriffe "Kenntnisse", "Fertigkeiten" und "Kompetenzen" können wie folgt definiert werden: 
-
-{{1}}
-********************************************************************************
-
-⇨ **„Kenntnisse"** [sind] das Ergebnis der Verarbeitung von Information durch Lernen. Kenntnisse bezeichnen die Gesamtheit der Fakten, Grundsätze, Theorie und Praxis in einem Arbeits- oder Lernbereich. Im Europäischen Qualifikationsrahmen (EQR) werden Kenntnisse als Theorie- und/oder Faktenwissen beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{2}}
-********************************************************************************
-
-⇨ **„Fertigkeiten“** [sind] die Fähigkeit, Kenntnisse anzuwenden und Know-how einzusetzen, um Aufgaben auszuführen und Probleme zu lösen. Im EQR werden Fertigkeiten als kognitive Fertigkeiten (unter Einsatz logischen, intuitiven und kreativen Denkens) oder praktische Fertigkeiten (Geschicklichkeit und Verwendung von Methoden, Materialien, Werkzeugen und Instrumenten) beschrieben.[^1](Amtsblatt der Europäischen Union, 2017)
-********************************************************************************
-
-{{3}}
-********************************************************************************
-
-⇨ **„Kompetenz“** [ist] die nachgewiesene Fähigkeit, Kenntnisse, Fertigkeiten sowie persönliche, soziale und/oder methodische Fähigkeiten in Arbeits- oder Lernsituationen und für die berufliche und persönliche Entwicklung zu nutzen.[^1](Amtsblatt der Europäischen Union, 2017)
-
-********************************************************************************
-
-</div>
 
 <div style="page-break-after: always;"></div>
 
