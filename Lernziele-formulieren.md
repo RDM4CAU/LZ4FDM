@@ -207,26 +207,6 @@ Ein Lernziel gilt als operationalisiert, wenn...
 <div style="page-break-after: always;"></div>
 
 
-## Formulierungshilfen
-
-Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, die eine Verhaltensbeobachtung (und damit eine Messbarkeit) möglich machen. 
-
-| Eindeutige Formulierung |  Nicht eindeutige Formulierung |
-| -------- | :------ |
-| nennen, erklären, erläutern, beschreiben, anwenden, ausführen, zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
-| **Beispiel**: Lernende können die FAIR-Prinzipien beschreiben. ✔  |   **Beispiel**: ~Lernende sind mit den FAIR-Prinzipien vertraut.~ ✖ |
-
-Bezüglich der Zuordnung zu den Bloomschen Taxonomiestufen kann diese Verbliste als Orientierung dienen. 
-
-Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch die doppelte Zuordnung eines Verbs in verschiedene Stufen sind möglich. 
-
-<!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
-| <!-- style="background: lightcyan"--> **Stufe 1: Wissen** | <!-- style="background: cyan"--> **Stufe 2: Verständnis** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwendung** |
-| <!-- style="background: lightcyan" --> auflisten, aufzählen, benennen, beschreiben, bezeichnen, darstellen, finden, gliedern, nennen, präsentieren, reproduzieren, schildern, schreiben,  wiedergeben, wiederholen   | <!-- style="background: cyan"--> bestimmen, charakterisieren, erkennen, erklären, erläutern, identifizieren, illustrieren, lokalisieren, zusammenfassen        |<!-- style="background: DarkTurquoise"--> anwenden, bedienen, benutzen, berechnen, durchführen, fertigen, implementieren, machen, nutzen, praktizieren, realisieren, transferieren, umsetzen, verwenden     |
-| <!-- style="background: MediumAquamarine"--> **Stufe 4: Analysieren**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Beurteilen**        |<!-- style="background: Khaki"--> **Stufe 6: Erschaffen**        |
-| <!-- style="background: MediumAquamarine" --> analysieren, auswählen, differenzieren, ermitteln, folgern, gegenüberstellen, hinterfragen, kategorisieren, klassifizieren, organisieren, testen, unterscheiden, untersuchen   | <!-- style="background: Darkkhaki"--> begründen, beurteilen, bewerten, entscheiden, evaluieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen, verteidigen          |<!-- style="background: khaki"-->  beziehen auf, entwerfen, entwickeln, herstellen, konzipieren, koordinieren, ordnen, verbinden, zusammenstellen      |
-
-<div style="page-break-after: always;"></div>
 
 # Formulierung von Lernzielen
 
@@ -271,6 +251,30 @@ Lernende können...
 ********************************************************************************
 
 <div style="page-break-after: always;"></div>
+
+
+## Formulierungshilfen
+
+Es gilt möglichst eindeutige Formulierungen zu finden und Verben zu benutzen, die eine Verhaltensbeobachtung (und damit eine Messbarkeit) möglich machen. 
+
+| Eindeutige Formulierung |  Nicht eindeutige Formulierung |
+| -------- | :------ |
+| nennen, erklären, erläutern, beschreiben, anwenden, ausführen, zuordnen, vergleichen, zusammenfassen    |   wissen, verstehen, kennen, glauben, vertraut sein mit, interessiert sein an, informiert sein |
+| **Beispiel**: Lernende können die FAIR-Prinzipien beschreiben. ✔  |   **Beispiel**: ~Lernende sind mit den FAIR-Prinzipien vertraut.~ ✖ |
+
+Bezüglich der Zuordnung zu den Bloomschen Taxonomiestufen kann diese Verbliste als Orientierung dienen. 
+
+Fachspezifische Unterschiede in der Zuordnung zu einer Taxonomiestufe oder auch die doppelte Zuordnung eines Verbs in verschiedene Stufen sind möglich. 
+
+<!-- style="width: 100%; min-width: 400px; color: black; font-size:18px" -->
+| <!-- style="background: lightcyan"--> **Stufe 1: Wissen** | <!-- style="background: cyan"--> **Stufe 2: Verständnis** |<!-- style="background: DarkTurquoise"--> **Stufe 3: Anwendung** |
+| <!-- style="background: lightcyan" --> auflisten, aufzählen, benennen, beschreiben, bezeichnen, darstellen, finden, gliedern, nennen, präsentieren, reproduzieren, schildern, schreiben,  wiedergeben, wiederholen   | <!-- style="background: cyan"--> bestimmen, charakterisieren, erkennen, erklären, erläutern, identifizieren, illustrieren, lokalisieren, zusammenfassen        |<!-- style="background: DarkTurquoise"--> anwenden, bedienen, benutzen, berechnen, durchführen, fertigen, implementieren, machen, nutzen, praktizieren, realisieren, transferieren, umsetzen, verwenden     |
+| <!-- style="background: MediumAquamarine"--> **Stufe 4: Analysieren**   | <!-- style="background: DarkKhaki"--> **Stufe 5: Beurteilen**        |<!-- style="background: Khaki"--> **Stufe 6: Erschaffen**        |
+| <!-- style="background: MediumAquamarine" --> analysieren, auswählen, differenzieren, ermitteln, folgern, gegenüberstellen, hinterfragen, kategorisieren, klassifizieren, organisieren, testen, unterscheiden, untersuchen   | <!-- style="background: Darkkhaki"--> begründen, beurteilen, bewerten, entscheiden, evaluieren, kritisch vergleichen, prüfen, Stellung nehmen, urteilen, verteidigen          |<!-- style="background: khaki"-->  beziehen auf, entwerfen, entwickeln, herstellen, konzipieren, koordinieren, ordnen, verbinden, zusammenstellen      |
+
+<div style="page-break-after: always;"></div>
+
+
 
 # Kompetenzbereiche
 
