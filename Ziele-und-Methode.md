@@ -237,7 +237,7 @@ logo: images/logos_dalia_dini-nestor.png
 
 # Themen und Gastgeber:innen
 
-| Tisch / Themencluster | Gastgeberinnen | 
+| Tisch / Themencluster | Gastgeber:innen | 
 | -------- | :------: | 
 | **Tisch 1**: Grundlagen     |   Jorge   | 
 | **Tisch 2**: Arbeiten mit Daten     |   Hermann   | 
