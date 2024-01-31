@@ -249,6 +249,13 @@ logo: images/logos_dalia_dini-nestor.png
 
 <div style="page-break-after: always;"></div>
 
+# Bevor es los geht
+
+QR Code für die Arbeit in den Clustern
+![Google Docs] (/images/image001.png)
+
+Tiny-url: http://tinyurl.com/LZM-FDM-DA
+
 # Informationen zu diesem Dokument
 
 | Parameter | Kurzinformationen |
