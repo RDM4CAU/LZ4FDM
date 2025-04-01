@@ -31,7 +31,7 @@ licence: https://creativecommons.org/licenses/by/4.0/
 <br>
 <br>
 <br>
-Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated this work is licenced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+[Britta Petersen](https://orcid.org/0000-0002-0355-2594) | Fellowship of the Data 2025, Jena | Unless otherwise stated this work is licenced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div style="page-break-after: always;"></div>
 
@@ -379,7 +379,7 @@ The Matrix is a community product!
 
 <div style="width: 75%; float: left; padding: 20px; font-size: 20px; text-align: left; background-color: #bfefff;">
 
-| Learning Objective  | possible adoption |
+| learning objective  | possible adoption |
 | :---- | :---- |
 | Learners can explain the functions and responsibilities of individuals in research data management (RDM). (LO-ID 01_003_0033) | -> Learners can explain the functions and responsibilities of **conservators and restorers**. (Hastik & Schwenk, 2025) |
 |  | -> Learners can explain the functions and responsibilities of **generic data stewards** in research data management (RDM) **using a diagram created in group work**. |
@@ -425,7 +425,9 @@ The Matrix is a community product!
 <div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff; border: 2px solid white">
 **Become part of the Matrix!**<!-- style="font-size: 30px;" -->
 
-✅ Join [DINI/nestor AG Forschungsdaten UAG Schulungen/Fortbildungen]()
+✅ Join [DINI/nestor AG Forschungsdaten UAG Schulungen/Fortbildungen](https://www.forschungsdaten.org/index.php/UAG_Schulungen/Fortbildungen)
+
+✅ Add adaptions to [LZM-info-page](https://www.forschungsdaten.org/index.php/Lernzielmatrix) at forschungsdaten.org
 
 ✅ Callaborate via GitHub: https://github.com/dini-ag-kim/fdm-lernziele
 
@@ -467,6 +469,8 @@ Many thanks to the community and everyone involved!
 Emojis used were designed by [OpenMoji – the open-source emoji and icon project](https://openmoji.org/). License: [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 EOSC-synergy. Data Steward Training. https://learn.eosc-synergy.eu/data-steward-training/, visited 29.03.2025
+
+Hastik, C., & Schwenk, G. A. (2025). SODa BeratungsCamp Modul 1 \- Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation \- Didaktisches Konzept (Version 1). Zenodo. [https://doi.org/10.5281/zenodo.14860999](https://doi.org/10.5281/zenodo.14860999)
 
 Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Objectives. Zenodo. https://doi.org/10.5281/zenodo.15043810
 
