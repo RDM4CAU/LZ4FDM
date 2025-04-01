@@ -32,7 +32,6 @@ licence: https://creativecommons.org/licenses/by/4.0/
 <br>
 <br>
 <br>
-<br>
 Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated this work is licenced under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 <div style="page-break-after: always;"></div>
@@ -42,7 +41,7 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
 <!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
-***"What is real? How do you define ‘real’?"*** – Morpheus
+***"What is real? How do you define ‘real’?" – Morpheus***
 
 <!-- style="width: 25%; height: 20%; float: right; font-size: 25px; text-align: left; background-color: #bfefff" -->
 ![](./images/data-stewards.png"This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 license.")
@@ -51,7 +50,7 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 ***************
 
 <!-- style="width: 74%; height: 45%; float: left; padding: 15px; font-size: 25px; text-align: left; background-color: #bfefff;" -->
-‘Data Steward’ is an umbrella term for numerous support roles that involve the creation, management and usage of research data.
+**‘Data Steward’ is an umbrella term for numerous support roles that involve the creation, management and usage of research data.**
 \
 \
 **🧚 - 🧪 - 🧙‍♂️ - 🧬 - 🧝 - 👩‍💻 - 📚 - 🧝‍♂️ - 📊 - 🧙‍♀️**<!-- style="font-size: 30px; margin-left: 10%" -->
@@ -82,7 +81,7 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 ![](./images/eosc_skills.png "White, A., & Green, D. (2025). Data Steward: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.14865959")
 
 <div style="width: 70%; float: left; padding: 10px; font-size: 25px; text-align: left; background-color: #bfefff;">
-**Data Stewards need both domain-specific expertise and cross-disciplinary skills.**
+**Data Stewards need domain-specific expertise & cross-disciplinary skills.**
 
 `Consulting` - advising on metadata, repositories, Open Science, FAIR principles, archiving, storage, funder requirements *and quite a lot more!!!*<!-- style="color: red" -->
 
@@ -240,7 +239,7 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 ************
 {{6}}
 ************
-**support learners in understanding** expectations and tracking progress.
+🎯 **support learners in understanding** expectations and tracking progress.
 ************
 {{7}}
 ************
