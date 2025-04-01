@@ -14,16 +14,15 @@ licence: https://creativecommons.org/licenses/by/4.0/
 -->
 
 # MATRIX 💊 meets Fellows of the Data 🧙‍♂️
-<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 10%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 10%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***“The Matrix is everywhere. It is all around us.” – Morpheus***
 
 
 
-***Learning Objectives as a Starting Point for the Development of Trainings for (Future) Data Stewards***<!-- style="width: 100%; float: left; padding: 180px; font-size: 35px; font-family: 'Exo 2', monospace; text-align: center; background-color: #bfefff" -->
-<br>
+***Learning Objectives as a Starting Point for the Development of Trainings for (Future) Data Stewards***<!-- style="width: 100%; float: left; padding: 170px; font-size: 35px; font-family: 'Exo 2', monospace; text-align: center; background-color: #bfefff" -->
 <br>
 <br>
 <br>
@@ -266,10 +265,12 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***It is all around us. Even now, in this very room." – Morpheus***
 
-<div style="width: 100%">
-The Matrix of LO for RDM is a community product!
+<div style="width: 100%; float: left; background-color: #bfefff; padding: 5px; font-size: 25px">
+The Matrix is a community product!
 </div>
+
 ![](./images/LZM-FDM_V3_de_Entstehungsprozess.jpg "Matrix Development")
+
 <div style="page-break-after: always;"></div>
 
 
@@ -336,7 +337,7 @@ The Matrix of LO for RDM is a community product!
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
 <!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
-"[You] know kung fu." - Neo
+***"[You] know kung fu." - Neo***
 
 <!-- style="width: 25%; float: right; padding: 5px;" -->
 ![](https://learn.eosc-synergy.eu/wp-content/uploads/2022/01/Course-overview-.png "learn.eosc-synergy.eu/data-steward-training/ licence CC BY")
@@ -354,7 +355,7 @@ The Matrix of LO for RDM is a community product!
 
 ✅ Add domain specific conditions (e.g. „for OMICS data“, „in social science“)
 
-✅ Structure selected learning objectives hierarchical: what is needed to achieve the overall objective of your training?
+✅ Structure objectives hierarchicaly
 
 
 **Add further conditions adjusted to training setting:**
@@ -405,8 +406,8 @@ The Matrix of LO for RDM is a community product!
 🟢 ***"We’re all here to do what we’re all here to do." – The Oracle***
 
 <div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff; border: 2px solid white">
-**Still a lot to do!**
-===
+**Still a lot to do!**<!-- style="font-size: 30px;" -->
+
 
 🟢 Translation to English
 
@@ -422,8 +423,7 @@ The Matrix of LO for RDM is a community product!
 </div>
 
 <div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff; border: 2px solid white">
-**Become part of the matrix!**
-===
+**Become part of the Matrix!**<!-- style="font-size: 30px;" -->
 
 ✅ Join [DINI/nestor AG Forschungsdaten UAG Schulungen/Fortbildungen]()
 
