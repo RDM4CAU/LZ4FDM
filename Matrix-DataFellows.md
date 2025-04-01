@@ -14,10 +14,10 @@ licence: https://creativecommons.org/licenses/by/4.0/
 -->
 
 # MATRIX 💊 meets Fellows of the Data 🧙‍♂️
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***“The Matrix is everywhere. It is all around us.” – Morpheus***
 
 
@@ -38,14 +38,14 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <div style="page-break-after: always;"></div>
 
 # Data Stewards 🧙‍♂️
-<!-- style="width: 15%; height: 8%; float: right;" -->
+<!-- style="width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***"What is real? How do you define ‘real’?"*** – Morpheus
 
 <!-- style="width: 25%; height: 20%; float: right; font-size: 25px; text-align: left; background-color: #bfefff" -->
-![](https://book.the-turing-way.org/build/data-stewards-6c54e384d294b5e588782c3d936b88af.png "This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 license.")
+![](./images/data-stewards.png"This illustration is created by Scriberia with The Turing Way community, used under a CC-BY 4.0 license.")
 
 {{1}}
 ***************
@@ -72,14 +72,14 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <div style="page-break-after: always;"></div>
 
 ## Key responsibilities of Data Stewards
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***"You take the red pill... and I show you how deep the rabbit hole goes."*– Morpheus**
 
 <!-- style="width: 30%; float: right; padding: 5px;" -->
-![](./eosc_skills.png "White, A., & Green, D. (2025). Data Steward: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.14865959")
+![](./images/eosc_skills.png "White, A., & Green, D. (2025). Data Steward: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.14865959")
 
 <div style="width: 70%; float: left; padding: 10px; font-size: 25px; text-align: left; background-color: #bfefff;">
 **Data Stewards need both domain-specific expertise and cross-disciplinary skills.**
@@ -99,10 +99,10 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <div style="page-break-after: always;"></div>
 
 # Learning Objectives 🎯
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime;" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime;" -->
 ***"I know Kung Fu." – Neo***
 
 {{0-1}}
@@ -134,10 +134,10 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <div style="page-break-after: always;"></div>
 
 ## Effective learning objectives
-<!-- style="width: 15%; height: 8%; float: right;" -->
+<!-- style="width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime;" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime;" -->
 ***"I ~know~ Kung Fu." – Neo***
 
 <div style="width: 100%; float: left; padding: 15px; font-size: 30px; text-align: left; background-color: #bfefff">
@@ -181,58 +181,23 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 
 ***********
 
-<div style="page-break-after: always;"></div>
-
-## LOs in training development
-<!-- style="width: 15%; height: 8%; float: right;" -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
-
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime;" -->
-***"I ~know~ Kung Fu." – Neo***
-
-<!-- style="width: 100%; float: left; padding: 25px; font-size: 30px; text-align: left; background-color: #bfefff" -->
-**Learning objectives support training development as they...**
-
-<div style="width: 100%; float: left; background-color: #bfefff; text-indent: 5px; font-size: 30px">
-
-{{1}}
-************
-🎯 **provide a shared understanding** of a training’s focus.
-************
-{{2}}
-************
-🎯 **help to develop a clear structure** for training design.
-************
-{{3}}
-************
-🎯 **help align** training with **desired competencies**.
-************
-{{4}}
-************
-🎯 **support learners in understanding** expectations and tracking progress.
-************
 {{5}}
-************
-🎯 **enable assessment** of learning outcomes and supports **selection of assessment methods**.
-************
-{{6}}
-************
-🎯 **guide instructors in selecting** appropriate **teaching methods**.
-************
-{{7}}
-************
-🎯 **enhance consistency and quality assurance** by providing a structured framework.
-************
+***************
+
+<div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff;">
+**Check out short guide on writing learning objectives**: Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Objectives. Zenodo. https://doi.org/10.5281/zenodo.15043810 
 
 </div>
+
+***********
 
 <div style="page-break-after: always;"></div>
 
 # Matrix of LO for RDM 👩‍🏫
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***"No one can be told what the Matrix is. You have to see it for yourself." – Morpheus***
 
 ![](./images/lzmV3-zenodo.png "LZM-FDM Zenodo")
@@ -242,10 +207,10 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <div style="page-break-after: always;"></div>
 
 ## Purpose
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***It is all around us. Even now, in this very room." – Morpheus***
 
 <!-- style="width: 100%; float: left; padding: 25px; font-size: 30px; text-align: left; background-color: #bfefff" -->
@@ -275,13 +240,17 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 ************
 {{6}}
 ************
-🎯 **supports** the **qualification of trainers**.
+**support learners in understanding** expectations and tracking progress.
 ************
 {{7}}
 ************
-🎯 **enhance consistency and quality assurance** by providing a structured framework.
+🎯 **supports** the **qualification of trainers**.
 ************
 {{8}}
+************
+🎯 **enhance consistency and quality assurance** by providing a structured framework.
+************
+{{9}}
 ************
 🎯 **enhance findability of teaching material** by providing IDs.
 ************
@@ -292,10 +261,10 @@ Britta Petersen | Fellowship of the Data 2025, Jena | Unless otherwise stated th
 <div style="page-break-after: always;"></div>
 
 ## Development
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***It is all around us. Even now, in this very room." – Morpheus***
 
 <div style="width: 100%">
@@ -306,10 +275,10 @@ The Matrix of LO for RDM is a community product!
 
 
 ## Structure
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***"I can only show you the door." – Morpheus***
 
 <div style="width: 100%; float: left; background-color: #bfefff; text-indent: 5px; font-size: 30px">
@@ -342,15 +311,21 @@ The Matrix of LO for RDM is a community product!
 </div>
 
 ## Matrix Glossary
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
+
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+***"You're the one that has to walk through it." – Morpheus***
+
 <iframe src="https://skohub.io/dini-ag-kim/fdm-lernziele/heads/main/w3id.org/kim/fdm-glossar.html" width="100%" height="600" style="border: 2px solid black;"></iframe>
 
 <div style="page-break-after: always;"></div>
 
 ## Example applications in training programs
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***You're the one that has to walk through it." – Morpheus***
 
 ![alt text](./images/lzm-applications.png)
@@ -358,10 +333,10 @@ The Matrix of LO for RDM is a community product!
 <div style="page-break-after: always;"></div>
 
 ## How to adapt it to own needs
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 "[You] know kung fu." - Neo
 
 <!-- style="width: 25%; float: right; padding: 5px;" -->
@@ -379,6 +354,9 @@ The Matrix of LO for RDM is a community product!
 ✅ Select related learning objectives according to your needs
 
 ✅ Add domain specific conditions (e.g. „for OMICS data“, „in social science“)
+
+✅ Structure selected learning objectives hierarchical: what is needed to achieve the overall objective of your training?
+
 
 **Add further conditions adjusted to training setting:**
 
@@ -421,10 +399,10 @@ The Matrix of LO for RDM is a community product!
 <div style="page-break-after: always;"></div>
 
 # Improvements & community involvement
-<!-- style="background-color: #F2F2F2; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 🟢 ***"We’re all here to do what we’re all here to do." – The Oracle***
 
 <div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff; border: 2px solid white">
@@ -433,13 +411,13 @@ The Matrix of LO for RDM is a community product!
 
 🟢 Translation to English
 
-🟢 Align cluster and topic names to controlled vocabulary
+🟢 Align cluster and topic names to controlled vocabulary wherever possible
 
 🟢 Consistend use of action verbs in all phases of Bloom´s Taxonomie
 
 🟢 Addition of topics (e.g. critical thinking)
 
-🟢 Modelation in [skos]()
+🟢 Modelation in [skos](https://www.w3.org/2004/02/skos/)
 
 🟢 Continious maintainment
 </div>
@@ -459,10 +437,10 @@ The Matrix of LO for RDM is a community product!
 <div style="page-break-after: always;"></div>
 
 # Thank you 💖
-<!-- style="background-color: #bfefff; width: 15%; height: 8%; float: right;" -->
+<!-- style="background-color: #bfefff; width: 15%; height: 12%; float: right;" -->
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
 
-<!-- style="width: 85%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***"There is a difference between knowing the path and walking the path." – Morpheus***
 
 <!-- style="background-color: #bfefff; width: 15%; height: 80%; float: right;" -->
