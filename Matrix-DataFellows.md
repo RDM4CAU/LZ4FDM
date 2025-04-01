@@ -200,7 +200,20 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 ![](./images/lzmV3-zenodo.png "LZM-FDM Zenodo")
 
-<iframe src="https://zenodo.org/records/15025246m" width="100%" height="600" style="border: 2px solid black;"></iframe>
+<div style="page-break-after: always;"></div>
+
+## Development
+<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
+
+<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
+***It is all around us. Even now, in this very room." – Morpheus***
+
+<div style="width: 100%; float: left; background-color: #bfefff; padding: 5px; font-size: 25px">
+The Matrix is a community product!
+</div>
+
+![](./images/LZM-FDM_V3_de_Entstehungsprozess.jpg "Matrix Development")
 
 <div style="page-break-after: always;"></div>
 
@@ -257,22 +270,6 @@ licence: https://creativecommons.org/licenses/by/4.0/
 </div>
 
 <div style="page-break-after: always;"></div>
-
-## Development
-<!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Digital_rain_animation_medium_letters_shine.gif/330px-Digital_rain_animation_medium_letters_shine.gif" style="width: 100%; height: 100%;" />
-
-<!-- style="width: 85%; height: 12%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
-***It is all around us. Even now, in this very room." – Morpheus***
-
-<div style="width: 100%; float: left; background-color: #bfefff; padding: 5px; font-size: 25px">
-The Matrix is a community product!
-</div>
-
-![](./images/LZM-FDM_V3_de_Entstehungsprozess.jpg "Matrix Development")
-
-<div style="page-break-after: always;"></div>
-
 
 ## Structure
 <!-- style="background-color: #F2F2F2; width: 15%; height: 12%; float: right;" -->
