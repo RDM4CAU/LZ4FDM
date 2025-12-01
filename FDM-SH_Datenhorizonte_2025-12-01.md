@@ -43,7 +43,7 @@ licence: https://creativecommons.org/licenses/by/4.0/
 <div style="page-break-after: always;"></div>
 
 ## Was ist das?
-<div style="width: 25%; float: right; background-color: #bfefff; padding: 20px;">
+<div style="width: 25%; float: right; background-color: #bfefff; padding: 21px;">
 ![](./images/lzmV3-zenodo.png)
 </div>
 
@@ -51,7 +51,7 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 **Die Lernzielmatrix zum FDM...**
 
-- ... ist ein **Orientierungswerkzeug**, welches für das FDM relevante Themen und hierzu passende Lernziele für verschiedene Zielgruppen Lernender in einer strukturierten Form zusammenfasst.
+- ... ist ein **Orientierungswerkzeug**, das für das FDM relevante Themen und hierzu passende Lernziele für verschiedene Zielgruppen Lernender in einer strukturierten Form zusammenfasst.
 </div>
 
 <div style="width: 100%; float: left; background-color: #bfefff; text-indent: 5px; padding: 15px; font-size: 25px">
@@ -69,13 +69,11 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 <div style="width: 100%; float: left; background-color: #bfefff; padding: 20px; font-size: 25px">
 
-- **ein gemeinsames Verständnis** für relevante Themen und Inhalte im Bereich FDM  zu erarbeiten und festzuhalten.
+- ein **gemeinsames Verständnis** für **relevante Themen und Inhalte** im Bereich FDM  zu erarbeiten und festzuhalten.
 
-- **eine Hilfestellung für eine effektive Auswahl von möglichen Lehr/Lerninhalten** bereitzustellen.
+- eine **Hilfestellung** für eine **effektive Auswahl** von **relevanten Themen/Inhalten** bereitzustellen.
 
-- **eine Hilfestellung für eine Strukturierung von Lehr-/Lerninhalten** zu bieten.
-
-- **eine Hilfestellung** in der **Qualifizierung von ausbildenden Personen** zu bieten.
+- eine **Hilfestellung** für die **Strukturierung von Lehr-/Lerninhalten** zu bieten.
 
 - einen Beitrag zur **Qualitätssicherung** von Lehr/Lernmaterialien oder Schulungskonzepten zu leisten.
 
@@ -103,19 +101,13 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 *****************
 
-{{1}}
-*****************
+## Nutzungsszenarien
 
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
-**Nutzungsszenarien**
-
-<!-- style="width: 60%" -->
+<!-- style="width: 75%" -->
 ![szenario1](images/lzm-szenarien01.png)
 
-<!-- style="width: 60%" -->
+<!-- style="width: 75%" -->
 ![szenario2](images/lzm-szenarien02.png)
-
-*****************
 
 ## Entwicklung
 
@@ -246,7 +238,7 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 {{0-1}}
 ************
-**Materialien:**
+**Dateien der Zenodo-Publikation**
 
 ![](./images/lzm-data-zenodo.png "LZM-FDM provided files in Zenodo publication")<!-- style="width: 75%" -->
 *************
@@ -379,12 +371,11 @@ Beispiele für Anpassungen von Lernzielen
 
 {{0-1}}
 ***********
-Mit V3 der Matrix wurden Anwendungsbeispiele aus der Praxis zusammengetragen.
 
-Die Beispiele aus der Praxis zeigen die bereits umfangreiche Nutzung der Matrix und können als Inspiration für Nachnutzende dienen.
-
-<!--style="width: 80%" -->
-![lzm anwendungsbeispiele](./images/lzm-applications.png)
+<!--style="font-size: 25px" -->
+>Mit V3 der Matrix wurden Anwendungsbeispiele aus der Praxis zusammengetragen.
+>
+>Die Beispiele aus der Praxis zeigen die bereits umfangreiche Nutzung der Matrix und können als Inspiration für Nachnutzende dienen.
 
 ******************
 
@@ -392,33 +383,55 @@ Die Beispiele aus der Praxis zeigen die bereits umfangreiche Nutzung der Matrix 
 ******************
 
 <!--style="font-size: 25px" -->
-Das Datenkompetenzzentrum [SODa](https://sammlungen.io/)
+>**Das Datenkompetenzzentrum** [**SODa**](https://sammlungen.io/)
+>
+>**Vorhaben**: Entwicklung zielgruppenspezifischer OER-Angebote zur Kompetenzentwicklung im FDM für Mitarbeitende in universitären und wissenschaftlichen Sammlungen
+>
+>**Umsetzung**: Entwicklung des SODa Formats BeratungsCamp zur Arbeit mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation
+
+******************
+
+{{2-3}}
+******************
+
+<!--style="font-size: 25px" -->
+**Das Datenkompetenzzentrum** [**SODa**](https://sammlungen.io/)
 
 ![anwendungsbeispiel soda](./images/example_soda.png)
 ******************
 
-{{2-3}}
+{{3-4}}
 ***************
 <!--style="font-size: 25px" -->
-DMP4NFDI [DMP4NFDI](https://dmp.services.base4nfdi.de/)
+**Nationale Forschungsdateninfrastruktur**, z. B. [DMP4NFDI](https://dmp.services.base4nfdi.de/)
 
-[DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO](https://zenodo.org/records/15771036)
+<!--style="font-size: 25px" -->
+Nutzung der LZM-FDM für [DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO](https://zenodo.org/records/15771036)
 
-<!--style="width: 90%" -->
+<!--style="width: 85%" -->
 ![anwenundgbeispiel DMP4NFDI](images/example_dmp4nfdi.png)
 
 ***************
 
-{{3-4}}
+{{4-5}}
 ***************
 <!--style="font-size: 25px" -->
-Beispiel für eigene Nutzung: Einsatz in Workshops
+**Beispiel für eigene Nutzung**: Einsatz als Lernresource in Workshops
 
 ![anwenundgbeispiel CAU](images/example_ttl-cau.png)
 
 ***************
 
-{{4}}
+{{5-6}}
+***************
+<!--style="font-size: 25px" -->
+[Einsatz in der Hochschullehre: Evaluierung von Prüfungsleistungen](https://zenodo.org/records/11388258)
+
+![anwenundgbeispiel Prüfungen](images/example_pruefung.png)
+
+*********************
+
+{{6}}
 ***************
 
 <!--style="font-size: 25px" -->
