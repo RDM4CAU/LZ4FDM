@@ -22,7 +22,7 @@ licence: https://creativecommons.org/licenses/by/4.0/
 <!-- style="width: 85%; height: 10%; float: left; padding: 15px; font-size: 21px; text-align: left; background-color:rgb(0, 0, 0); color: lime; font-family: 'Exo 2', monospace" -->
 ***...and I show you how deep the learning goes.***
 
-***Die Lernzielmatrix zum Forschungsdatenmanagement als Werkzeug für die strukturierte Entwicklung von FDM-Bildungsangeboten.***<!-- style="width: 100%; float: left; padding: 130px; font-size: 35px; font-family: 'Exo 2', monospace; text-align: center; background-color: #bfefff" -->
+***Die Lernzielmatrix zum Forschungsdatenmanagement als Werkzeug für die strukturierte Entwicklung von FDM-Bildungsangeboten.***<!-- style="width: 100%; float: left; padding: 130px; font-size: 35px; font-family: 'Exo 2', monospace; text-align: center; background-color: #f0daec" -->
 <br>
 <br>
 <br>
@@ -43,18 +43,18 @@ licence: https://creativecommons.org/licenses/by/4.0/
 <div style="page-break-after: always;"></div>
 
 ## Was ist das?
-<div style="width: 25%; float: right; background-color: #bfefff; padding: 21px;">
+<div style="width: 25%; float: right; background-color: #f0daec; padding: 21px;">
 ![](./images/lzmV3-zenodo.png)
 </div>
 
-<div style="width: 75%; float: left; background-color: #bfefff; text-indent: 5px; padding: 15px; font-size: 25px">
+<div style="width: 75%; float: left; background-color: #f0daec; text-indent: 5px; padding: 15px; font-size: 25px">
 
 **Die Lernzielmatrix zum FDM...**
 
 - ... ist ein **Orientierungswerkzeug**, das für das FDM relevante Themen und hierzu passende Lernziele für verschiedene Zielgruppen Lernender in einer strukturierten Form zusammenfasst.
 </div>
 
-<div style="width: 100%; float: left; background-color: #bfefff; text-indent: 5px; padding: 15px; font-size: 25px">
+<div style="width: 100%; float: left; background-color: #f0daec; text-indent: 5px; padding: 15px; font-size: 25px">
 - ...orientiert sich an einer Reihe von (inter-)nationalen Projekten und Fortbildungskonzepten.
 
 - ...ist ein fortlaufend weiterzuentwickelndes Produkt der FDM-(Trainings-)Community.
@@ -63,11 +63,13 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 ## Ziel
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Die LZM-FDM verfolgt das Ziel...**
 
-<div style="width: 100%; float: left; background-color: #bfefff; padding: 20px; font-size: 25px">
+<div style="width: 100%; float: left; background-color: #f0daec; padding: 20px; font-size: 25px">
 
 - ein **gemeinsames Verständnis** für **relevante Themen und Inhalte** im Bereich FDM  zu erarbeiten und festzuhalten.
 
@@ -85,10 +87,10 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 {{0-1}}
 **************
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Adressierte Personengruppen...**
 
-<div style="width: 100%; float: left; background-color: #bfefff; padding: 20px; font-size: 25px">
+<div style="width: 100%; float: left; background-color: #f0daec; padding: 20px; font-size: 25px">
 ...sind bspw. **FDM-Multiplikator:innen** oder **Lehrende der Fachbereiche**, die die Matrix auf ihre Kontexte anwenden, z. B. für die Entwicklung von:
 
 - FDM-Informationsveranstaltungen
@@ -101,6 +103,8 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 *****************
 
+<div style="page-break-after: always;"></div>
+
 ## Nutzungsszenarien
 
 <!-- style="width: 75%" -->
@@ -109,12 +113,14 @@ licence: https://creativecommons.org/licenses/by/4.0/
 <!-- style="width: 75%" -->
 ![szenario2](images/lzm-szenarien02.png)
 
+<div style="page-break-after: always;"></div>
+
 ## Entwicklung
 
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Die Matrix ist ein Produkt der Community!**
 
-<div style="width: 100%; float: left; background-color: #bfefff; padding: 20px; font-size: 25px">
+<div style="width: 100%; float: left; background-color: #f0daec; padding: 20px; font-size: 25px">
 
 - [**Version 1, de**](https://doi.org/10.5281/zenodo.7034478): Veröffentlichung 2022
 - [**Version 2, de/en**](https://zenodo.org/records/8010617): Veröffentlichung 2023
@@ -135,10 +141,10 @@ licence: https://creativecommons.org/licenses/by/4.0/
 {{0-1}}
 ************
 
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Warum eigentlich Lernziele?**
 
-<div style="width: 40%; float: right; background-color: #bfefff; padding: 12px;">
+<div style="width: 40%; float: right; background-color: #f0daec; padding: 12px;">
 
 ``` ascii
 
@@ -151,7 +157,7 @@ licence: https://creativecommons.org/licenses/by/4.0/
 
 </div>
 
-<div style="width: 60%; float: left; background-color: #bfefff; padding: 20px;font-size: 25px">
+<div style="width: 60%; float: left; background-color: #f0daec; padding: 20px;font-size: 25px">
 Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 - **Was ist das Ziel?**
@@ -165,10 +171,10 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 {{1-2}}
 ************
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Was ist ein Lernziel?**
 
-<!-- style="width: 100%; height: 100%; float: left; padding: 25px; font-size: 20px; text-align: center; background-color: #bfefff" -->
+<!-- style="width: 100%; height: 100%; float: left; padding: 25px; font-size: 20px; text-align: center; background-color: #f0daec" -->
 ***Ein Lernziel beschreibt den nachprüfbaren Zuwachs an Kenntnissen, Fertigkeiten und Haltungen bezogen auf einen bestimmten Lerninhalt, der am Ende eines Lernprozesses erreicht werden soll.***<!-- style="font-size: 30px" -->
 <br>
 <br>
@@ -176,12 +182,14 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 ****************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 *****************
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Mit anderen Worten: Lernziele...**
 
-<!-- style="width: 100%; height: 100%; float: left; padding: 25px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; height: 100%; float: left; padding: 25px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 🎯 *...bieten Orientierung zu den Themen, die in einer bestimmten Lehr-/Lerneinheit behandelt werden, und*<!-- style="font-size: 25px" -->
 <br>
 <br>
@@ -193,10 +201,10 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 {{3-4}}
 ***************
-<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff" -->
+<!-- style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec" -->
 **Klare und effiziente Lernziele...**
 
-<div style="width: 100%; float: left; padding: 25px; font-size: 23px; text-align: left; background-color: #bfefff">
+<div style="width: 100%; float: left; padding: 25px; font-size: 23px; text-align: left; background-color: #f0daec">
 
 🎯 ...beschreiben ein beobachtbares und messbares Verhalten.
 
@@ -210,12 +218,14 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 </div>
 
+<div style="page-break-after: always;"></div>
+
 *************
 
 {{4}}
 ***************
 
-<div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #bfefff;">
+<div style="width: 100%; float: left; padding: 20px; font-size: 25px; text-align: left; background-color: #f0daec;">
 **Beispiel:**
 
 | Klares Lernziel | Unklares Lernziel |  
@@ -224,7 +234,7 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 | **Beispiel**: Lernende können die FAIR-Prinzipien erläutern. ✅ | **Beispiel**: Lernende verstehen die FAIR-Prinzipien. ❌ |
 </div>
 
-<div style="width: 100%; float: left; padding: 20px; font-size: 15px; text-align: left; background-color: #bfefff;">
+<div style="width: 100%; float: left; padding: 20px; font-size: 15px; text-align: left; background-color: #f0daec;">
 **siehe auch**: Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Objectives. Zenodo. https://doi.org/10.5281/zenodo.15043810 
 
 </div>
@@ -234,7 +244,7 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 <div style="page-break-after: always;"></div>
 
 ## Materialien
-<div style="width: 100%; float: left; background-color: #bfefff; font-size: 30px; padding: 15px;">
+<div style="width: 100%; float: left; background-color: #f0daec; font-size: 30px; padding: 15px;">
 
 {{0-1}}
 ************
@@ -245,21 +255,22 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 </div>
 
-
 {{1-2}}
 ************
-<div style="width: 100%; float: left; background-color: #bfefff; font-size: 50px; padding: 15px">
+<div style="width: 100%; float: left; background-color: #f0daec; font-size: 50px; padding: 15px">
 **Try to check out README first :-)**
 </div>
 
 *************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 ************
-<!-- style="padding: 15px; font-size: 30px; text-align: left; background-color: #bfefff" -->
+<!-- style="padding: 15px; font-size: 30px; text-align: left; background-color: #f0daec" -->
 **Lernziele in Themenclustern:**
 
-<div style="width: 100%; float: left; background-color: #bfefff; padding: 20px; font-size: 25px">
+<div style="width: 100%; float: left; background-color: #f0daec; padding: 20px; font-size: 25px">
 
 - Grundlegende und übergreifende Konzepte (201)
 - Arbeiten mit Daten (396)
@@ -272,15 +283,17 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 
 *************
 
+<div style="page-break-after: always;"></div>
+
 {{3}}
 ************
-<div style="background-color: #bfefff; font-size: 30px; padding: 15px">
+<div style="background-color: #f0daec; font-size: 30px; padding: 15px">
 
 **Ein Blick in das Tabellenblatt Lernziele: 🔎**
 
 </div>
 
-<div style="background-color: #bfefff; padding: 15px">
+<div style="background-color: #f0daec; padding: 15px">
 ![](images/lzm-table_small_label.png)
 
 - Alle Lernziele sind sprachlich einheitlich aufgebaut.
@@ -289,6 +302,8 @@ Bei der Planung von Lehre müssen immer drei wichtige Fragen beantwortet werden:
 </div>
 
 ************
+
+<div style="page-break-after: always;"></div>
 
 ### Glossar
 <iframe src="https://skohub.io/dini-ag-kim/fdm-lernziele/heads/main/w3id.org/kim/fdm-glossar.html" width="100%" height="600" style="border: 2px solid black;"></iframe>
@@ -336,6 +351,8 @@ Nutzung der Lernzielmarix als Orientierungswerkzeug
 
 *************
 
+<div style="page-break-after: always;"></div>
+
 {{1-2}}
 *************
 
@@ -357,10 +374,12 @@ Beispiele für Anpassungen von Lernzielen
 
 *************
 
+<div style="page-break-after: always;"></div>
+
 {{2}}
 *************
 
-<div style="width: 100%; float: left; padding: 20px; font-size: 23px; text-align: left; background-color: #bfefff; border: 2px solid white">
+<div style="width: 100%; float: left; padding: 20px; font-size: 23px; text-align: left; background-color: #f0daec; border: 2px solid white">
 **✅ Nutzt die Matrix als Inspirationsquelle und entwickelt hieraus eigene Lernziele!**</div>
 
 **********
@@ -379,6 +398,8 @@ Beispiele für Anpassungen von Lernzielen
 
 ******************
 
+<div style="page-break-after: always;"></div>
+
 {{1-2}}
 ******************
 
@@ -391,6 +412,8 @@ Beispiele für Anpassungen von Lernzielen
 
 ******************
 
+<div style="page-break-after: always;"></div>
+
 {{2-3}}
 ******************
 
@@ -399,6 +422,8 @@ Beispiele für Anpassungen von Lernzielen
 
 ![anwendungsbeispiel soda](./images/example_soda.png)
 ******************
+
+<div style="page-break-after: always;"></div>
 
 {{3-4}}
 ***************
@@ -412,6 +437,9 @@ Nutzung der LZM-FDM für [DMP4NFDI Train-the-Trainer Concept on Data Management 
 ![anwenundgbeispiel DMP4NFDI](images/example_dmp4nfdi.png)
 
 ***************
+
+<div style="page-break-after: always;"></div>
+
 
 {{4-5}}
 ***************
@@ -431,11 +459,13 @@ Nutzung der LZM-FDM für [DMP4NFDI Train-the-Trainer Concept on Data Management 
 
 *********************
 
+<div style="page-break-after: always;"></div>
+
 {{6}}
 ***************
 
 <!--style="font-size: 25px" -->
-[Blog-Beitrag Datenkompetenzzntrum WiNoDa](https://winoda.de/en/2025/09/09/the-lom-for-rdm-and-the-unevenly-distributed-knowledge/)
+[Blog-Beitrag Datenkompetenzzntrum WiNoDa](https://winoda.de/2025/09/09/die-lzm-fuer-fdm-und-das-ungleich-verteilte-wissen/)
 
 ![anwenundgbeispiel winoda](images/example_winoda.png)
 
@@ -474,6 +504,8 @@ Nutzung der LZM-FDM für [DMP4NFDI Train-the-Trainer Concept on Data Management 
 </div>
 
 *******************
+
+<div style="page-break-after: always;"></div>
 
 {{1}}
 *********************
@@ -520,9 +552,13 @@ Many thanks to the community and everyone involved!
 
 # Quellen
 
+Altemeier, Franziska; Hastik, Canan; Schwenk, Gudrun; Slowig, Benjamin: Info-Termin 2025-06-16: FDM-Lernzielmatrix (Version 3). DINI/nestor AG Forschungsdaten, 2025. https://doi.org/10.5446/70587
+
 Emojis used were designed by [OpenMoji – the open-source emoji and icon project](https://openmoji.org/). License: [CC BY SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/#)
 
 EOSC-synergy. Data Steward Training. https://learn.eosc-synergy.eu/data-steward-training/, visited 29.03.2025
+
+Gonzalez Ocanto, M., Diederichs, K., Schönau, S., Wallace, D., & Windeck, J. (2025). DMP4NFDI Train-the-Trainer Concept on Data Management Plans and RDMO. Zenodo. https://doi.org/10.5281/zenodo.15771036
 
 Hastik, C., & Schwenk, G. A. (2025). SODa BeratungsCamp Modul 1 \- Arbeiten mit strukturierten Daten in der Konservierungs- und Restaurierungsdokumentation \- Didaktisches Konzept (Version 1). Zenodo. [https://doi.org/10.5281/zenodo.14860999](https://doi.org/10.5281/zenodo.14860999)
 
@@ -530,6 +566,8 @@ Manske, A., & Petersen, B. (2025). 23 TrainingThings for Writing Learning Object
 
 Petersen, B., Altemeier, F., Boße, S., Düvel, N., Engelhardt, C., Fichtner, M., Hastik, C., Haugwitz, J.-M., Jacob, J., Koch, K., Kuntz, A., Manske, A., Mühlichen, A., Murcia Serra, J., Ortmeyer, J., Richter, M., Schranzhofer, H., Slowig, B., Trautwein-Bruns, U., … Zollitsch, L. (2025). Lernzielmatrix zum Themenbereich Forschungsdatenmanagement (FDM) (Version 3). Zenodo. https://doi.org/10.5281/zenodo.15025246
 
-The Turing Way Community. (2022). The Turing Way: A handbook for reproducible, ethical and collaborative research (1.0.2). Zenodo. https://doi.org/10.5281/zenodo.7625728
+Riedel, C., Wiepke, A., & Lucke, U. (2024, Mai 29). Die Lernzielmatrix zur Evaluierung von DMPs in der Hochschullehre. Community Event zur Lernzielmatrix zum Forschungsdatenmanagement, Darmstadt, Germany. Zenodo. https://doi.org/10.5281/zenodo.11388258
+
+Schröder, Dr. Asta von. (2025). Die LZM für FDM und das ungleich verteilte Wissen. WiNoDa Knowledge Lab. https://winoda.de/2025/09/09/die-lzm-fuer-fdm-und-das-ungleich-verteilte-wissen/ (Accessed on Dezember 1, 2025 at 10:04)
 
 White, A., & Green, D. (2025). Data Steward: Minimum Viable Skills Profile. Zenodo. https://doi.org/10.5281/zenodo.14865959
